@@ -1,0 +1,62 @@
+From michel.firholz at siemens.com  Fri May  8 10:18:36 2009
+From: michel.firholz at siemens.com (Firholz, Michel)
+Date: Fri, 8 May 2009 10:18:36 +0200
+Subject: [Wpmp-users] A modest improvement suggestion...
+Message-ID: <BDE9EACC0A987442A9D9969F9619EDB309899268@mhpadhsc.ww901.siemens.net>
+
+
+Hi WPMP's Merlins,
+
+First of all a huge "thank you" for this great work, i use it almost
+daily.
+
+Just a small suggestion: would it be possible to include in the script a
+removal of the standard remarks "this article needs improvment".
+These standart texts are useless in an offline edition and easy to be
+recognised, isn't it?
+
+Just my two cents...
+
+With best regards,
+Michel Firholz
+
+Tel.: +49 (89) 636-57654 
+Fax: +49 (89) 749-11471 
+Mobile: +49 (178) 3474659
+mailto:michel.firholz at siemens.com  <mailto:michel.firholz at siemens.com> 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20090508/b187c3b8/attachment.html>
+
+From jp.biaia at googlemail.com  Sat May 16 21:18:32 2009
+From: jp.biaia at googlemail.com (Jean-Pierre Biaia)
+Date: Sat, 16 May 2009 21:18:32 +0200
+Subject: [Wpmp-users] Wikipedia FR 06.2008 1e2.tgz
+Message-ID: <73d390190905161218i74423e4aid5a7276056e7bdb6@mail.gmail.com>
+
+Guten Tag,
+
+Ich habe die 3 Versionen der franz?sischen Wikipedia probiert .
+Ich vermute, dass die Version Wikipedia FR 06.2008 1e2.tgz f?r Mobipocket
+geeignet ist.
+
+Ich konnte feststellen, dass die Dateien
+wpfr4.prc
+wpfr8.prc
+wpfr22.prc
+wpfr29.prc
+wpfr39.prc
+defeckt sind bzw. wenn man sie kopiert  wird zuerst eine 0 bites Datei
+kreiert, welche nicht ?berschrieben werden kann weil als defekt angegeben.
+
+Gibt es die M?glichkeit eine arbeitende franz?sische Version f?r Mobipocket
+zu bekommen ?
+
+Liebe Gr??e
+Jean-Pierre Biaia
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20090516/bae399a0/attachment.html>
+

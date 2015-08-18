@@ -1,0 +1,16 @@
+From kurt.stampfl at utanet.at  Fri Mar 12 09:56:33 2010
+From: kurt.stampfl at utanet.at (Kurt Stampfl)
+Date: Fri, 12 Mar 2010 09:56:33 +0100
+Subject: [Wpmp-users] Wikipedia auf Smartphone
+Message-ID: <01609F21F3E444FE8F522173E8E5B5EB@NotebookKurt>
+
+Hallo,
+ich w?rde mir gerne wikipedia mit Mobipoket Reader auf meinem Smartphone installieren, den Reader habe ich bereits und ich habe auch die *tgz* datei runtergeladen und mit 7z entpackt. Jetzt habe ich einen Ordner mit dieen ganzen dateien von    *wpde0.prc*    bis    *wpde44.prc*    und auch eine    *wpde.prc*   und eine *report.html*   .wie muss ich die diese Dateien auf der Speicherkarte strukturieren, ich habe n?mlich schon eien ?ltere Version von wikipedia auf einem PDA und habe die Datei Wikipedia unter EBooks und die anderen Dateien im Ordner subdocs welcher im Ordner EBooks liegt. Vermutlich ist es bei der neuen Version genauso, aber da mein Englisch nicht so gut ist, verstehe ich nicht genau welche Datei in welchen Ordner geh?rt, vielleicht kann mir da jemand helfen.
+
+Danke im voraus 
+
+Kurt 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20100312/69c4866f/attachment.html>
+

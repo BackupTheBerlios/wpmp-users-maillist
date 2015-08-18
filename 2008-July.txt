@@ -1,0 +1,510 @@
+From yhiro at mbp.ocn.ne.jp  Thu Jul  3 14:01:09 2008
+From: yhiro at mbp.ocn.ne.jp (Yoko Hiroi)
+Date: Thu, 3 Jul 2008 21:01:09 +0900
+Subject: [Wpmp-users] English Wikipedia tested
+Message-ID: <20080703210109.Postino-013565@mbp.ocn.ne.jp>
+
+Hello!
+Have tried English encyclopedia, it works so great with such huge contents, wonderful..! THANK YOU SO MUCH for the great completion! I still have tried it only on MobiReader on Win XP, but I'll get 8GB microSDHC for a Nokia phone in a few days...
+
+It's so superb so many language's versions are available..! Have also used German encyclopedia, so fine contents, I really like it. Thanks again.
+
+(In English version, indexes in non-Latin characters are not visible, though they are visible in articles itself.. Maybe this is the same problem as it was in Japanese encyclopedia..?)
+
+Best regards,
+Yoko
+
+
+From burk at cbs.mpg.de  Thu Jul  3 18:20:09 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 3 Jul 2008 18:20:09 +0200
+Subject: [Wpmp-users] English Wikipedia tested
+In-Reply-To: <20080703210109.Postino-013565@mbp.ocn.ne.jp>
+References: <20080703210109.Postino-013565@mbp.ocn.ne.jp>
+Message-ID: <20080703162009.GA30373@defiant.alpha>
+
+Hi,
+
+On Thu, Jul 03, 2008 at 09:01:09PM +0900, Yoko Hiroi wrote:
+> Hello!
+
+> Have tried English encyclopedia, it works so great with such huge
+> contents, wonderful..! THANK YOU SO MUCH for the great completion! I still
+> have tried it only on MobiReader on Win XP, but I'll get 8GB microSDHC for
+> a Nokia phone in a few days...
+
+I'm curious: Which Nokia phone is it? I'm still looking for one which is
+able to handle cards >2GB.
+
+> It's so superb so many language's versions are available..! Have also used
+> German encyclopedia, so fine contents, I really like it. Thanks again.
+
+You're welcome :-)
+
+> (In English version, indexes in non-Latin characters are not visible,
+> though they are visible in articles itself.. Maybe this is the same
+> problem as it was in Japanese encyclopedia..?)
+
+It's because of the restricted charset of MP-Indices. If I understand this
+right, unicode in indices is mapped to some internal 8bit-representation (!=
+UTF-8) and when the table is filled up, the remaining characters are not
+displayed correctly.
+
+Regards,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From ladiko at gmail.com  Fri Jul  4 00:57:18 2008
+From: ladiko at gmail.com (Ronny)
+Date: Fri, 04 Jul 2008 00:57:18 +0200
+Subject: [Wpmp-users] English Wikipedia tested
+In-Reply-To: <20080703162009.GA30373@defiant.alpha>
+References: <20080703210109.Postino-013565@mbp.ocn.ne.jp>
+	<20080703162009.GA30373@defiant.alpha>
+Message-ID: <486D594E.8000305@gmail.com>
+
+cause normal SD cards / controlers can only handle 2 GB (some can handle 
+4GB with FAT32), SDHC (high capacity) was developed and all newer nokias 
+support SDHC cards:
+N95, N78, 5700, N82, N81, N96, 6120 classic, 6110 navigator, newer 
+E-Series Phones  like E90, E71, E66 etc. in short: all s60 phones 
+released with or after the N95. dont ask me about S40 cause these phones 
+doesnt support mobireader.
+
+In the last c't magazin there was an article about UMTS phones with 
+HSDPA and they tested the N78 with an 8GB card and it works. N95 and 
+newer also work with 8gb cards. 5700 works at least with 4gb but maybe 
+also with 8gb cause it is the same platform and all other phones support 
+8gb.
+
+there were 2 windows mobile 6.0 phones from samsung and they didnt work 
+with the tested 8gb sdhc-card, but with the 4gb one.
+
+Frank Burkhardt schrieb:
+> Hi,
+>
+> On Thu, Jul 03, 2008 at 09:01:09PM +0900, Yoko Hiroi wrote:
+>   
+>> Hello!
+>>     
+>
+>   
+>> Have tried English encyclopedia, it works so great with such huge
+>> contents, wonderful..! THANK YOU SO MUCH for the great completion! I still
+>> have tried it only on MobiReader on Win XP, but I'll get 8GB microSDHC for
+>> a Nokia phone in a few days...
+>>     
+>
+> I'm curious: Which Nokia phone is it? I'm still looking for one which is
+> able to handle cards >2GB.
+>
+>   
+>> It's so superb so many language's versions are available..! Have also used
+>> German encyclopedia, so fine contents, I really like it. Thanks again.
+>>     
+>
+> You're welcome :-)
+>
+>   
+>> (In English version, indexes in non-Latin characters are not visible,
+>> though they are visible in articles itself.. Maybe this is the same
+>> problem as it was in Japanese encyclopedia..?)
+>>     
+>
+> It's because of the restricted charset of MP-Indices. If I understand this
+> right, unicode in indices is mapped to some internal 8bit-representation (!=
+> UTF-8) and when the table is filled up, the remaining characters are not
+> displayed correctly.
+>
+> Regards,
+>
+> Frank
+>
+>   
+
+
+From yhiro at mbp.ocn.ne.jp  Fri Jul  4 13:06:03 2008
+From: yhiro at mbp.ocn.ne.jp (Yoko Hiroi)
+Date: Fri, 4 Jul 2008 20:06:03 +0900
+Subject: [Wpmp-users] English Wikipedia tested
+Message-ID: <20080704200603.Postino-014962@mbp.ocn.ne.jp>
+
+Yes, 8GB SDHC on my Nokia N82 have been working fine with encyclopedias!
+
+> It's because of the restricted charset of MP-Indices. If I understand this
+> right, unicode in indices is mapped to some internal 8bit-representation (!=
+> UTF-8) and when the table is filled up, the remaining characters are not
+> displayed correctly.
+
+I'm sorry I don't know what MP-Indices are and don't know how indices are generated in Wikipedia files... I'm using now some .prc files with visible non-Latin(Japanese)indices, they are generated by MobipocketCreator(or mobigen.exe) from HTML files (converted from .csv files like Ja-En dictionary etc.) and can be with large entry(hundreds of thousand, with many kanji), work fine on MobiReader.. so I'm wondering if there's nice way about non-Latin indices..
+
+Regards,
+Yoko
+
+
+From burk at cbs.mpg.de  Fri Jul  4 14:37:50 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Fri, 4 Jul 2008 14:37:50 +0200
+Subject: [Wpmp-users] English Wikipedia tested
+In-Reply-To: <20080704200603.Postino-014962@mbp.ocn.ne.jp>
+References: <20080704200603.Postino-014962@mbp.ocn.ne.jp>
+Message-ID: <20080704123750.GA16509@defiant.alpha>
+
+Hi,
+
+On Fri, Jul 04, 2008 at 08:06:03PM +0900, Yoko Hiroi wrote:
+
+[snip]
+
+> I'm sorry I don't know what MP-Indices are and don't know how indices are
+> generated in Wikipedia files... I'm using now some .prc files with visible
+> non-Latin(Japanese)indices, they are generated by MobipocketCreator(or
+> mobigen.exe) from HTML files (converted from .csv files like Ja-En
+> dictionary etc.) and can be with large entry(hundreds of thousand, with
+> many kanji), work fine on MobiReader.. so I'm wondering if there's nice
+> way about non-Latin indices..
+
+I'm curious. Could you send me the the source (the opf file and ~10kB of
+the HTML sources) of such a dictionary?
+
+I'd love to have all the chracters in the index but until now I was of the
+impression, this was impossible.
+
+Regards,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From yhiro at mbp.ocn.ne.jp  Fri Jul  4 14:53:40 2008
+From: yhiro at mbp.ocn.ne.jp (Yoko Hiroi)
+Date: Fri, 4 Jul 2008 21:53:40 +0900
+Subject: [Wpmp-users] English Wikipedia tested
+Message-ID: <20080704215340.Postino-022817@mbp.ocn.ne.jp>
+
+Hi,
+
+> I'm curious. Could you send me the the source (the opf file and ~10kB of
+> the HTML sources) of such a dictionary?
+
+Yes, I'll send you a small one to your e-mail address.
+Would be great if you'd kindly check it. Thank you.
+
+Regards,
+Yoko
+
+
+From wolfgang.lierz at library.ethz.ch  Fri Jul  4 15:27:04 2008
+From: wolfgang.lierz at library.ethz.ch (Lierz Wolfgang)
+Date: Fri, 04 Jul 2008 15:27:04 +0200
+Subject: [Wpmp-users] Index page of english wikipedia
+Message-ID: <486E2528.3090704@library.ethz.ch>
+
+Hello Frank and all,
+
+adding another item to the index/unreadable characters topic:
+
+the top level index page from wpen.prc looks partially unreadable, see 
+attachment.
+
+thanks and best regards
+-- 
+ETH Z?rich, Wolfgang Lierz, ETH-Bibliothek, IT-Dienste, R?mistrasse 101, 
+8092 Z?rich
+Tel +41 44 632 21 80, Mobil +41 79 205 07 65, 
+wolfgang.lierz at library.ethz.ch, www.ethbib.ethz.ch
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: index-en.jpg
+Type: image/jpeg
+Size: 26035 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080704/18f6893a/attachment.jpg>
+
+From burk at cbs.mpg.de  Tue Jul  8 10:18:38 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Tue, 8 Jul 2008 10:18:38 +0200
+Subject: [Wpmp-users] German 2008 Wikipedia Feedback
+In-Reply-To: <40044DD3-B7FD-426D-B538-1FE9B480B5FC@gmx.de>
+References: <40044DD3-B7FD-426D-B538-1FE9B480B5FC@gmx.de>
+Message-ID: <20080708081838.GA30830@defiant.alpha>
+
+Hi,
+
+On Mon, Jun 30, 2008 at 09:40:39PM +0200, Felix Schellenberg wrote:
+> Die Umlaute in der Listenansicht werden falsch dargestellt - in den  
+> Zwischen?berschriften stimmen sie wieder.
+> 
+> Z.B. Beim Versuch "Manchester" nachzuschlagen, werden vorher die  
+> Eintr?ge von "M?nch" angeziegt, da das "?" in Sonderzeichen  
+> ausgedr?ckt wird.
+
+Danke fuer den Hinweis, dem wird nachgegangen.
+
+Gruss,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From cstorch at gmx.net  Thu Jul 17 21:39:54 2008
+From: cstorch at gmx.net (christian storch)
+Date: Thu, 17 Jul 2008 21:39:54 +0200
+Subject: [Wpmp-users] inhaltsverzeichnis
+Message-ID: <20080717193954.266150@gmx.net>
+
+hallo frank, hallo alle anderen,
+
+vielen dank fuer die deine sicherlich aufwendige arbeit. ich benutze die wikipedia in meinem e65 nahezu st?ndlich und bin der king in jeder kneipendiskussion.
+
+mir ist aufgefallen, dass die inhaltsverzeichnisse in den artikeln fehlen. ist das gewollt? ich habe auch nix auf deiner seite dazu gefunden.
+
+viele gr?sse
+
+cstorch
+-- 
+GMX Kostenlose Spiele: Einfach online spielen und Spa? haben mit Pastry Passion!
+http://games.entertainment.gmx.net/de/entertainment/games/free/puzzle/6169196
+
+
+From burk at cbs.mpg.de  Fri Jul 18 09:41:27 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Fri, 18 Jul 2008 09:41:27 +0200
+Subject: [Wpmp-users] inhaltsverzeichnis
+In-Reply-To: <20080717193954.266150@gmx.net>
+References: <20080717193954.266150@gmx.net>
+Message-ID: <20080718074127.GA26301@defiant.alpha>
+
+Moin,
+
+On Thu, Jul 17, 2008 at 09:39:54PM +0200, christian storch wrote:
+> hallo frank, hallo alle anderen,
+> 
+> vielen dank fuer die deine sicherlich aufwendige arbeit. ich benutze die
+> wikipedia in meinem e65 nahezu st?ndlich und bin der king in jeder
+> kneipendiskussion.
+
+My Pleasure :-)
+
+> mir ist aufgefallen, dass die inhaltsverzeichnisse in den artikeln fehlen.
+> ist das gewollt? ich habe auch nix auf deiner seite dazu gefunden.
+
+Ja - das ist es. Derzeitig ist es zu fehleranfaellig, diese zu uebernehmen.
+Die Internen HTML-Links, die per Klick auf einen TOC-Eintrag angesprungen
+werden, sind oft nicht eindeutig (sprich: mehrfach vorhanden). Deshalb muss
+ich diese Links entfernen, bevor der HTML-Parser zuschlaegt. Nachtraeglich
+wieder einfuegen ist leider nicht moeglich.
+
+Viele Gruesse,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From burk at cbs.mpg.de  Fri Jul 18 11:38:38 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Fri, 18 Jul 2008 11:38:38 +0200
+Subject: [Wpmp-users] inhaltsverzeichnis
+In-Reply-To: <20080718082005.79410@gmx.net>
+References: <20080717193954.266150@gmx.net>
+	<20080718074127.GA26301@defiant.alpha>
+	<20080718082005.79410@gmx.net>
+Message-ID: <20080718093838.GA27416@defiant.alpha>
+
+Hallo,
+
+On Fri, Jul 18, 2008 at 10:20:05AM +0200, christian storch wrote:
+
+[snip]
+
+> > Die Internen HTML-Links, die per Klick auf einen TOC-Eintrag angesprungen
+> > werden, sind oft nicht eindeutig (sprich: mehrfach vorhanden). Deshalb
+> > muss
+> 
+> kannst du mir mal eine solche stelle raussuchen? ich w?rd mir das mal anschauen.
+
+?
+
+Es sind einfach IDs doppelt vergeben. Bsp:
+
+[...]
+<span id="target_1">blah</span>
+<span id="target_1">blub</span>
+[...]
+
+Wenn ich das durch den HTML-Parser von libxml2 schicke, sagt der schlicht
+"Noe - mach ich nicht", was korrekt ist, da jede ID in HTML nur einmal
+auftauchen darf. Das ist zwar als XML prinzipiell OK, jedoch sind
+die Artikel nicht immer valides XML, weshalb ich den HTML-Parser benutzen
+muss.
+
+Viele Gruesse,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From burk at cbs.mpg.de  Fri Jul 18 11:44:07 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Fri, 18 Jul 2008 11:44:07 +0200
+Subject: [Wpmp-users] wpmp-user
+In-Reply-To: <18445307.1215587576705.JavaMail.vrmail@vrwb204>
+References: <18445307.1215587576705.JavaMail.vrmail@vrwb204>
+Message-ID: <20080718094407.GB27416@defiant.alpha>
+
+Hallo,
+
+On Wed, Jul 09, 2008 at 09:12:56AM +0200, Alexander Menhorn wrote:
+> Hallo,
+> 
+> ich hab die aktuelle deutsche Version "wpmp-de-200806_1e.tgz" auf meinem PDA geladen.
+> Da Sie diese Version noch nicht als stabil bezeichnen, will ich Ihnen einen entdeckten Fehler melden:
+> Der Einstieg mit dem "wpde"-Buch und "Click here to search" klappt. Wenn ich dann allerdings auf irgendeiner gefundenen Seite gelandet bin und von dort erneut in die Stichwortsuche wechseln will (mit der Mobipocketfunktion "Tools\Find") kommt ein Fehler "Could not open" und nach dessen Best?tigung nochmal "Could not open". Diesmal mit einer genaueren Fehlerangabe "%5CStorage%20Card%5CeBooks5Cwpde14.prc(window.index_search())".
+> Da diese aktuelle Version keine Subdirs enth?lt, kann ich den Fehler nicht einsch?tzen.
+
+Das kann ich hier nicht reproduzieren. Weiss leider nicht, woran das liegen
+koennte.
+
+Viele Gruesse,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From liste1 at hthiele.de  Wed Jul 30 00:16:44 2008
+From: liste1 at hthiele.de (Holger Thiele)
+Date: Wed, 30 Jul 2008 00:16:44 +0200
+Subject: [Wpmp-users] Wikipedia DE, TWI
+Message-ID: <200807300016.45182.liste1@hthiele.de>
+
+Hi,
+
+in der deutschen Version habe ich folgendes Problem gefunden
+(wenn schon bekannt, bitte ignorieren ;-)):
+Seite: TWI
+(das ist eine Begriffserkl?rungsseite)
+Die ist in der wmpm-Version auch sehr wohl vorhanden, aber es fehlen die 
+folgenden Links:
+* Two-wire Interface (2. Punkt in der unteren Liste)
+* Technikum Winterthur Ingenieurschule
+d.h. der Text ist in der wpmp drin, aber die Links zu den Artikeln halt nicht.
+Der Link von "Two-wire Interface" zeigt (in der Wikipedia) selbst ?brigens 
+nach I2C, und der Artikel ist in der wpmp drin.
+
+[Trotzdem verdammt tolle Sache, das ;-)]
+
+Holger
+
+
+
+From burk at cbs.mpg.de  Thu Jul 31 21:03:40 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 31 Jul 2008 21:03:40 +0200
+Subject: [Wpmp-users] Blackberry Problem
+In-Reply-To: <ef2a6720807310123n33297185t92fe18b868ae1d00@mail.gmail.com>
+References: <ef2a6720807310123n33297185t92fe18b868ae1d00@mail.gmail.com>
+Message-ID: <20080731190340.GA4996@defiant.alpha>
+
+Halloechen,
+
+On Thu, Jul 31, 2008 at 10:23:44AM +0200, Ralf Diesslin wrote:
+> Hallo,
+> 
+> vielleicht habe ich den Eintrag auf der Webseite unter "Bugs and
+> Un-nice-itie" nicht richtig gelesen, bei der ?ber Probleme von WPMP
+> gesprochen wird.
+> Multipart-Books werden auch von dem neusten V6.0 Build 076 von
+> Mobipocket mit Blackberry nicht unterst?tzt.
+
+In dem Abschnitt ging's nicht um den Reader - nur um die Programme,
+die die eBooks erzeugen. Ich weiss nix davon, dass Blackberrys keine
+mehrteiligen eBooks unterstuetzen, kann mir das nicht vorstellen,
+lege aber keine Hand dafuer ins Feuer.
+
+Vielleicht weiss jemand auf der Mailingliste ob's auf
+Blackberrys normalerweise funktioniert.
+
+Viele Gruesse,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From burk at cbs.mpg.de  Thu Jul 31 22:06:39 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 31 Jul 2008 22:06:39 +0200
+Subject: [Wpmp-users] Wikipedia DE, TWI
+In-Reply-To: <200807300016.45182.liste1@hthiele.de>
+References: <200807300016.45182.liste1@hthiele.de>
+Message-ID: <20080731200639.GB4996@defiant.alpha>
+
+Hallo,
+
+On Wed, Jul 30, 2008 at 12:16:44AM +0200, Holger Thiele wrote:
+> Hi,
+> 
+> in der deutschen Version habe ich folgendes Problem gefunden
+> (wenn schon bekannt, bitte ignorieren ;-)):
+> Seite: TWI
+> (das ist eine Begriffserkl?rungsseite)
+> Die ist in der wmpm-Version auch sehr wohl vorhanden, aber es fehlen die 
+> folgenden Links:
+> * Two-wire Interface (2. Punkt in der unteren Liste)
+> * Technikum Winterthur Ingenieurschule
+> d.h. der Text ist in der wpmp drin, aber die Links zu den Artikeln halt nicht.
+> Der Link von "Two-wire Interface" zeigt (in der Wikipedia) selbst ?brigens 
+> nach I2C, und der Artikel ist in der wpmp drin.
+
+Gratulation - Du hast den bis jetzt schwerwiegendsten Bug gefunden. Er
+betraf alle Links in Erklaerungsseiten, die auf weitergeleitete Seiten
+fuehren. Hab' die Skripte entsprechend angepasst - das naechste Release
+enthaelt diese Links dann.
+
+Viele Gruesse,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+

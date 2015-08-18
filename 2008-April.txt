@@ -1,0 +1,133 @@
+From lachmann at eva.mpg.de  Tue Apr  1 09:48:59 2008
+From: lachmann at eva.mpg.de (Michael Lachmann)
+Date: Tue, 1 Apr 2008 09:48:59 +0200
+Subject: [Wpmp-users] wpmp english version
+Message-ID: <bae3a3880804010048g1bea6b30uf954f9ef9b505f18@mail.gmail.com>
+
+I just installed the english version on my smartphone.
+Till now it works really nicely! I was afraid that links between
+articles wouldn't work - they seem to work very well!
+I have two questions:
+1. On my phone, the library now contains a list of 100 documents, all
+of which belong to the english wikipedia. This makes ot hard to choose
+other, non wikipedia documents. I'm not very familiar with mobireader.
+Is there a way to hide these sub-documents? The solution I found was
+to create reading lists that contain just the index documents. I think
+I could also edit the properties of the 100 document belonging to the
+english wikipedia, and put them also in a reading list, so they would
+not be displayed in the "unfilled" category. but that would take quite
+long, as I have to manually edit the properties of each document...
+
+2. Is there a way to change the name of the index documents? Currently
+they are displayed as
+wpen and wpenx2
+wpen contains all upto "List of bacterial orders"
+wpenx2 everything after that. I'd like the name to reflect that.
+Maybe
+wpen -List of bact
+wpen List of bact-
+
+
+thanks!
+
+
+From burk at cbs.mpg.de  Tue Apr  1 10:05:28 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Tue, 1 Apr 2008 10:05:28 +0200
+Subject: [Wpmp-users] wpmp english version
+In-Reply-To: <bae3a3880804010048g1bea6b30uf954f9ef9b505f18@mail.gmail.com>
+References: <bae3a3880804010048g1bea6b30uf954f9ef9b505f18@mail.gmail.com>
+Message-ID: <20080401080527.GA2077@defiant.alpha>
+
+Hi,
+
+On Tue, Apr 01, 2008 at 09:48:59AM +0200, Michael Lachmann wrote:
+> I just installed the english version on my smartphone.
+> Till now it works really nicely! I was afraid that links between
+> articles wouldn't work - they seem to work very well!
+> I have two questions:
+> 1. On my phone, the library now contains a list of 100 documents, all
+> of which belong to the english wikipedia. This makes ot hard to choose
+> other, non wikipedia documents. I'm not very familiar with mobireader.
+> Is there a way to hide these sub-documents? The solution I found was
+> to create reading lists that contain just the index documents. I think
+> I could also edit the properties of the 100 document belonging to the
+> english wikipedia, and put them also in a reading list, so they would
+> not be displayed in the "unfilled" category. but that would take quite
+> long, as I have to manually edit the properties of each document...
+> 
+> 2. Is there a way to change the name of the index documents? Currently
+> they are displayed as
+> wpen and wpenx2
+> wpen contains all upto "List of bacterial orders"
+> wpenx2 everything after that. I'd like the name to reflect that.
+> Maybe
+> wpen -List of bact
+> wpen List of bact-
+
+I'm very sorry, but the english version is rather a study than a real
+release. It is broken and can't be replaced at this time because there are
+no static HTML dumps available from the wikimedia.
+
+Regards,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de>   phone: +49 341 9940-142
+Max Planck Institute for Human     /"\
+Cognitive and Brain Sciences       \ / ASCII Ribbon Campain
+Leipzig, Germany                    X  against HTML Mail
++--------------------------------- / \ -------------------+
+| GPG: 6DCA A8BA 4DBD 14EE 7D4C  3F0C A015 6284 7146 EC5F |
++---------------------------------------------------------+
+ 
+
+
+From ladiko at gmail.com  Fri Apr 25 14:50:35 2008
+From: ladiko at gmail.com (Ronny)
+Date: Fri, 25 Apr 2008 14:50:35 +0200
+Subject: [Wpmp-users] 2008 release?
+Message-ID: <4811D39B.1050401@gmail.com>
+
+Hello Frank,
+
+any news about a (german) 2008 release? :-)
+
+i use the 2007small version nearly every day to lookup some words or 
+terms i dont know or want to know more about it and would be less 
+informed without it :-) great work!
+
+kind regards
+ronny
+
+
+From burk at cbs.mpg.de  Fri Apr 25 15:35:40 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Fri, 25 Apr 2008 15:35:40 +0200
+Subject: [Wpmp-users] 2008 release?
+In-Reply-To: <4811D39B.1050401@gmail.com>
+References: <4811D39B.1050401@gmail.com>
+Message-ID: <20080425133540.GA568@defiant.alpha>
+
+Hi,
+
+On Fri, Apr 25, 2008 at 02:50:35PM +0200, Ronny wrote:
+> Hello Frank,
+> 
+> any news about a (german) 2008 release? :-)
+
+Sorry, but: no.
+
+> i use the 2007small version nearly every day to lookup some words or 
+> terms i dont know or want to know more about it and would be less 
+> informed without it :-) great work!
+
+Thank you :-)
+
+
+Regards,
+
+Frank
+
+

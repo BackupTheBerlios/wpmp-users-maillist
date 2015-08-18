@@ -1,0 +1,137 @@
+From wpegden at gmail.com  Thu Dec 11 02:43:35 2008
+From: wpegden at gmail.com (Wesley Pegden)
+Date: Wed, 10 Dec 2008 20:43:35 -0500
+Subject: [Wpmp-users] making a small english version?
+Message-ID: <6a5494630812101743w3b70e9d3l38ef20f17b7cc7d4@mail.gmail.com>
+
+Hi,
+I am interested in getting/making a small english version of wpmp,
+similar to the small german version which is already on the website.
+
+Are the scripts that were used for the small german version available?
+ Or are the scripts posted on the website easily adaptable to filter
+articles by popularity?
+
+Thanks very much,
+Wes
+
+
+From reformen at yahoo.de  Fri Dec 12 13:51:28 2008
+From: reformen at yahoo.de (emanuel)
+Date: Fri, 12 Dec 2008 13:51:28 +0100
+Subject: [Wpmp-users] wiki, dictnionari und test funktionieren nicht
+Message-ID: <000601c95c58$5a3dd950$0eb98bf0$@de>
+
+Hallo zusammen, 
+
+ 
+
+erstmal vielen dank f?r die tolle arbeit, - echt klasse projekt.
+
+ 
+
+Nun muss ich die sache nur noch zum laufen kriegen...
+
+ 
+
+Habe das freedict heruntergeladen ? eine mobi datei erhalten, kann sie
+?ffnen, aber die links nicht benutzen, gleiches problem bei 00wpmp.prc,
+
+00wpmp20070903.prc
+
+ 
+
+Meine wikidateien sind alle in einem ordner und lauten wpde.prc, wpde0.prc,
+wpde1.prc.... wpde27.prc
+
+Das ist die version wpmp-de-200708-small_1.tgz hab aber auch die version
+wpmp-de-200806-235k_1e.tgz
+
+Die hat die gleichen dateien bis 9.
+
+Benutze winrar zum entzippen
+
+ 
+
+Die test von der homepage datei hat zwar einen unterordner
+subfolders(glaubich), kann die links aber trotzdem nicht ?ffnen
+
+Ich hab auf der homepage und in foren nach einer l?sung gesucht, - auch das
+mailinglisten archiv bin ich durchgegangen,,,leider nix gefunden
+
+Jetzt seid ihr meine rettung???...
+
+ 
+
+ich hoffe jetzt mal das frank oder jemand eine l?sung f?r das problem hat
+oder zeit und lust eine zu suchen.
+
+ 
+
+Viele gr?sse aus lauterbach hessen
+
+Emanuel rauber
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20081212/abf43300/attachment.html>
+
+From burk at cbs.mpg.de  Fri Dec 12 19:13:19 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Fri, 12 Dec 2008 19:13:19 +0100
+Subject: [Wpmp-users] wiki, dictnionari und test funktionieren nicht
+In-Reply-To: <000601c95c58$5a3dd950$0eb98bf0$@de>
+References: <000601c95c58$5a3dd950$0eb98bf0$@de>
+Message-ID: <20081212181319.GA5071@defiant.alpha>
+
+Hi,
+
+On Fri, Dec 12, 2008 at 01:51:28PM +0100, emanuel wrote:
+> Hallo zusammen,
+> 
+>  
+> 
+> erstmal vielen dank f?r die tolle arbeit, - echt klasse projekt.
+
+Danke danke :-)
+
+[snip]
+
+> Habe das freedict heruntergeladen ? eine mobi datei erhalten, kann sie ?ffnen,
+> aber die links nicht benutzen, gleiches problem bei 00wpmp.prc,
+
+Was bedeutet "links nicht benutzen koennen" genau?
+
+Viele Gruesse,
+
+Frank
+
+
+From burk at cbs.mpg.de  Sat Dec 13 12:24:40 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Sat, 13 Dec 2008 12:24:40 +0100
+Subject: [Wpmp-users] wiki, dictnionari und test funktionieren nicht
+In-Reply-To: <001d01c95c8f$7f179360$7d46ba20$@de>
+References: <000601c95c58$5a3dd950$0eb98bf0$@de>
+	<20081212181319.GA5071@defiant.alpha>
+	<001d01c95c8f$7f179360$7d46ba20$@de>
+Message-ID: <20081213112440.GA9590@defiant.alpha>
+
+Hallo,
+
+On Fri, Dec 12, 2008 at 08:26:09PM +0100, emanuel wrote:
+
+> Es wird die startseite angezeigt, die links sind blau markiert, es passiert aber nichts wenn ich draufklicke, als ob es garkein link ist...
+> Sag bloss dieses problem gabs noch nie???
+
+Nicht dass ich wuesste. Bei den bisherigen Linkproblemen gab's immer ne
+Fehlermeldung. Weiss leider keine Loesung dafuer. Ich wuerde aber mal
+vermuten, dass es ein Softwareproblem ist - der Mobipocket Reader also
+Unsinn macht. In diesem Fall koenntest Du mal im Forum von Mobipocket
+nachfragen.
+
+Viele Gruesse,
+
+Frank
+
+

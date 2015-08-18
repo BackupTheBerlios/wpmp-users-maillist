@@ -1,0 +1,243 @@
+From fbolug at gmx.net  Fri Feb  8 11:10:50 2008
+From: fbolug at gmx.net (Frank Burkhardt)
+Date: Fri, 8 Feb 2008 11:10:50 +0100
+Subject: [Wpmp-users] Frage zu WPMP-Versionen
+Message-ID: <20080208101049.GA4104@defiant.alpha>
+
+Hi,
+
+> From: Henrik Haendel <henrik_haendel at hotmail.com>
+> To: burk at cbs.mpg.de
+> Subject: Frage zu WPMP-Versionen
+> Date: Fri, 8 Feb 2008 00:21:35 +0000
+> 
+> Hallo,
+> 
+> Ich erlaube mir mal, an Dich zu mailen. (Ich habe mich in die Mailingliste eingetragen, weiss aber nicht, wohin
+> ich da die mails schicken muss...)
+> Ich h?tte eine Frage zu den beiden deutschen Versionen :
+> wpmp-de-200708-small_1.tgz
+> wpmp-de-200708_8.tgz
+> Abgesehen von den auf der Webseite aufgef?hrten Unterschiede, unterscheiden diese sich auch in der Anzahl /
+> L?nge der Artikel ?
+
+Ja - die small-Version enthaelt weniger Artikel. Entfernt wurden Artikel, die
+ueber die offizielle Wikipedia nur selten aufgerufen worden. Datenbasis waren
+ausgewerte logfiles der Wikimedia-Proxy-Cluster.
+
+> Und das folgende muss ich noch loswerden:
+> Ein grosses Lob und ein grosser Dank f?r die geleistete Arbeit!
+> Ich habe selber mal angefangen, Wikipedia f?r Mobipocket zu konvertieren, und erahne, wie m?hsam dies ist.
+
+Danke danke :-)
+
+[snip]
+
+Viele Gruesse,
+
+Frank
+
+-- 
+                                   /"\
+Frank Burkhardt <fbolug at gmx.net>   \ / ASCII Ribbon Campain
+                                    X  against HTML Mail
+                                   / \
+
+
+From jan at hebler.de  Fri Feb  8 14:20:09 2008
+From: jan at hebler.de (Jan Hebler)
+Date: Fri, 08 Feb 2008 14:20:09 +0100
+Subject: [Wpmp-users] Script-Download
+Message-ID: <47AC5709.50400@hebler.de>
+
+Hallo!
+
+Auf der Mobipedia-Webseite 
+http://fbo.no-ip.org/cgi-bin/twiki/view/Public/MobiPedia#What_do_I_need_to_make_those_eBo 
+steht,
+das die Scripte frei verf?gbar sind. Kann mir bitte jemand sagen, wo?
+
+mit freundlichen Gr??en
+
+Jan Hebler
+
+
+
+From fbolug at gmx.net  Fri Feb  8 16:41:31 2008
+From: fbolug at gmx.net (Frank Burkhardt)
+Date: Fri, 8 Feb 2008 16:41:31 +0100
+Subject: [Wpmp-users] Script-Download
+In-Reply-To: <47AC5709.50400@hebler.de>
+References: <47AC5709.50400@hebler.de>
+Message-ID: <20080208154131.GA7854@defiant.alpha>
+
+Hi,
+
+On Fri, Feb 08, 2008 at 02:20:09PM +0100, Jan Hebler wrote:
+> Hallo!
+> 
+> Auf der Mobipedia-Webseite 
+> http://fbo.no-ip.org/cgi-bin/twiki/view/Public/MobiPedia#What_do_I_need_to_make_those_eBo 
+> steht,
+> das die Scripte frei verf?gbar sind. Kann mir bitte jemand sagen, wo?
+
+In english please!
+
+Sorry, forgot to write down the script location. I updated the WPMP homepage.
+
+Regards,
+
+Frank
+
+-- 
+                                   /"\
+Frank Burkhardt <fbolug at gmx.net>   \ / ASCII Ribbon Campain
+                                    X  against HTML Mail
+                                   / \
+
+
+From henrik_haendel at hotmail.com  Sat Feb  9 17:30:12 2008
+From: henrik_haendel at hotmail.com (Henrik Haendel)
+Date: Sat, 9 Feb 2008 16:30:12 +0000
+Subject: [Wpmp-users] Script-Download
+In-Reply-To: <20080208154131.GA7854@defiant.alpha>
+References: <47AC5709.50400@hebler.de> <20080208154131.GA7854@defiant.alpha>
+Message-ID: <BLU122-W191E8C7958CBA939840ACEEC280@phx.gbl>
+
+Hi,
+
+I've just installed wpmp-de-200704-1 and it works.
+But :
+All the subdocs are listed in the MobiReader eBooks-Tab. I have to scroll to the bottom of the list to find the main Wikipedia file.
+If I hide the subfolder, the subdocs don't appear in the list, but the links between the articles don't work (some erreur message with "#...").
+
+Does somebody know a solution for this problem ?
+
+Best regards,
+Henrik
+
+
+
+> Date: Fri, 8 Feb 2008 16:41:31 +0100
+> From: fbolug at gmx.net
+> To: wpmp-users at lists.berlios.de
+> Subject: Re: [Wpmp-users] Script-Download
+> 
+> Hi,
+> 
+> On Fri, Feb 08, 2008 at 02:20:09PM +0100, Jan Hebler wrote:
+> > Hallo!
+> > 
+> > Auf der Mobipedia-Webseite 
+> > http://fbo.no-ip.org/cgi-bin/twiki/view/Public/MobiPedia#What_do_I_need_to_make_those_eBo 
+> > steht,
+> > das die Scripte frei verf?gbar sind. Kann mir bitte jemand sagen, wo?
+> 
+> In english please!
+> 
+> Sorry, forgot to write down the script location. I updated the WPMP homepage.
+> 
+> Regards,
+> 
+> Frank
+> 
+> -- 
+>                                    /"\
+> Frank Burkhardt <fbolug at gmx.net>   \ / ASCII Ribbon Campain
+>                                     X  against HTML Mail
+>                                    / \
+> _______________________________________________
+> Wpmp-users mailing list
+> Wpmp-users at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/wpmp-users
+
+_________________________________________________________________
+V?llige Gestaltungsfreiheit: Mit Live.com k?nnen Sie Ihre Homepage genau so gestalten, wie Sie es m?chten.
+http://www.live.com/getstarted
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080209/0ddefa67/attachment.html>
+
+From fbolug at gmx.net  Thu Feb 14 16:03:45 2008
+From: fbolug at gmx.net (Frank Burkhardt)
+Date: Thu, 14 Feb 2008 16:03:45 +0100
+Subject: [Wpmp-users] Script-Download
+In-Reply-To: <BLU122-W191E8C7958CBA939840ACEEC280@phx.gbl>
+References: <47AC5709.50400@hebler.de> <20080208154131.GA7854@defiant.alpha>
+	<BLU122-W191E8C7958CBA939840ACEEC280@phx.gbl>
+Message-ID: <20080214150345.GA15404@defiant.alpha>
+
+Hi,
+
+On Sat, Feb 09, 2008 at 04:30:12PM +0000, Henrik Haendel wrote:
+> Hi,
+> 
+> I've just installed wpmp-de-200704-1 and it works.
+
+Please consider downloading a more recent release - something 200708'ish.
+
+> But :
+> All the subdocs are listed in the MobiReader eBooks-Tab. I have to scroll
+> to the bottom of the list to find the main Wikipedia file. If I hide the
+> subfolder, the subdocs don't appear in the list, but the links between the
+> articles don't work (some erreur message with "#...").
+
+The simplest solution is to "hide" all the Subdoc files. Just connect your memory
+card to your computer and change the DOS-attributes in some file manager.
+
+Regards,
+
+Frank
+
+-- 
+                                   /"\
+Frank Burkhardt <fbolug at gmx.net>   \ / ASCII Ribbon Campain
+                                    X  against HTML Mail
+                                   / \
+
+
+From ladiko at gmail.com  Thu Feb 14 16:18:16 2008
+From: ladiko at gmail.com (Ronny)
+Date: Thu, 14 Feb 2008 16:18:16 +0100
+Subject: [Wpmp-users] Script-Download
+In-Reply-To: <20080214150345.GA15404@defiant.alpha>
+References: <47AC5709.50400@hebler.de>
+	<20080208154131.GA7854@defiant.alpha>	<BLU122-W191E8C7958CBA939840ACEEC280@phx.gbl>
+	<20080214150345.GA15404@defiant.alpha>
+Message-ID: <47B45BB8.3030809@gmail.com>
+
+Hello,
+
+i never tried it again, cause i had problems with hiding single files 
+when all files were in a folder. there i had to hide the folder and i 
+didn't liked the idea of putting all prc-files to the same 
+base-directory cause i thought they cant be hidden, but i see it works 
+great :-)
+
+thank you!
+
+Frank Burkhardt schrieb:
+> Hi,
+> 
+> On Sat, Feb 09, 2008 at 04:30:12PM +0000, Henrik Haendel wrote:
+>> Hi,
+>>
+>> I've just installed wpmp-de-200704-1 and it works.
+> 
+> Please consider downloading a more recent release - something 200708'ish.
+> 
+>> But :
+>> All the subdocs are listed in the MobiReader eBooks-Tab. I have to scroll
+>> to the bottom of the list to find the main Wikipedia file. If I hide the
+>> subfolder, the subdocs don't appear in the list, but the links between the
+>> articles don't work (some erreur message with "#...").
+> 
+> The simplest solution is to "hide" all the Subdoc files. Just connect your memory
+> card to your computer and change the DOS-attributes in some file manager.
+> 
+> Regards,
+> 
+> Frank
+> 
+
+

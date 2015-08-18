@@ -1,0 +1,168 @@
+From mehta.harish at yahoo.com  Mon Feb  8 15:10:07 2010
+From: mehta.harish at yahoo.com (Harish Mehta)
+Date: Mon, 8 Feb 2010 14:10:07 +0000 (GMT)
+Subject: [Wpmp-users] wikipedia ebook in English
+Message-ID: <393132.33766.qm@web86505.mail.ird.yahoo.com>
+
+Dear Sir,
+I am trying to download the wikipedia ebook in English via links below but it seems, they are not working at the moment.
+
+ftp://ftp5.gwdg.de/pub/wikipedia/mobile/ebooks/en/wpmp-en-200806-1e.tgz
+ftp://ftp5.gwdg.de/pub/wikipedia/mobile/ebooks/en/wpmp-en-200806_1e2.tgz
+
+Can you please check?
+
+Thanks in advance.
+
+Best Regards,
+Harish
+
+
+__________________________________________________
+Do You Yahoo!?
+Sie sind Spam leid? Yahoo! Mail verf?gt ?ber einen herausragenden Schutz gegen Massenmails. 
+http://mail.yahoo.com 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20100208/559c6ac3/attachment.html>
+
+From sieppari at web.de  Mon Feb 15 20:50:57 2010
+From: sieppari at web.de (Falk Hartje)
+Date: Mon, 15 Feb 2010 20:50:57 +0100
+Subject: [Wpmp-users] Next Wikipedia Release?
+In-Reply-To: <99ed2fe4385134c7a4271b180ad76422.squirrel@www.franken.de>
+References: <99ed2fe4385134c7a4271b180ad76422.squirrel@www.franken.de>
+Message-ID: <332c7ddb1002151150j46467f22hd14050a7ef9eb5d@mail.gmail.com>
+
+Hi Paul,
+
+your question is being "answered" on this project's homepage (
+http://fbo.no-ip.org/cgi-bin/twiki/view/Public/MobiPedia) :
+
+"Important:
+A new release will be made, when there's a new static html-Snapshot of
+the Wikipedia. I do not know, when this will happen - usually the
+Wikipedia guys do it once a year.
+Usually, it's WPMP policy to reply to all email. However, Questions
+about when the next release will take place won't anymore. "
+
+
+
+
+On Mon, Jan 18, 2010 at 4:22 PM, Paul Gabriel <paul at pogo.franken.de> wrote:
+>
+> Hello,
+>
+> as a heavy user of mobile wikipedia, I am curious when do you think are
+> you going to release the next wikipedia eBook?
+> As I see, the last release is from June 2008, which is 19 months ago.
+>
+> bye
+> Paul
+>
+> _______________________________________________
+> Wpmp-users mailing list
+> Wpmp-users at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/wpmp-users
+
+
+From kepa at lavabit.com  Tue Feb 16 14:14:51 2010
+From: kepa at lavabit.com (Kepa)
+Date: Tue, 16 Feb 2010 14:14:51 +0100
+Subject: [Wpmp-users] (sin asunto)
+Message-ID: <4B7A9A4B.7080707@lavabit.com>
+
+I think more important than a new version of the wikipedia, is to expect 
+that the creator of this "ebook" gets inspiration to embed images in it. 
+That would be a master job, men.
+
+Thanks for your great work!
+
+
+
+From burk at cbs.mpg.de  Tue Feb 16 14:57:04 2010
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Tue, 16 Feb 2010 14:57:04 +0100
+Subject: [Wpmp-users] (sin asunto)
+In-Reply-To: <4B7A9A4B.7080707@lavabit.com>
+References: <4B7A9A4B.7080707@lavabit.com>
+Message-ID: <20100216135704.GA13223@defiant.alpha>
+
+Hi,
+
+On Tue, Feb 16, 2010 at 02:14:51PM +0100, Kepa wrote:
+> I think more important than a new version of the wikipedia, is to expect 
+> that the creator of this "ebook" gets inspiration to embed images in it. 
+> That would be a master job, men.
+
+It's not that I don't want to. The main problem is mobipocket's (the file
+format) inability to handle large quantities of objects. The articles
+themselves are written into one big html file which is easily handled by
+mobipocket. However, even including the formulas is tough sometimes -
+including all the images is completely hopeless - even without taking the
+images' storage requirement into account.
+
+> Thanks for your great work!
+
+You're welcome.
+
+Regards,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From burk at cbs.mpg.de  Wed Feb 17 09:26:17 2010
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Wed, 17 Feb 2010 09:26:17 +0100
+Subject: [Wpmp-users] WG: Fwd: Re: [Ticket#2010021010058834] Static
+	HTML-Dump der Wikipedia
+In-Reply-To: <OF9F186648.DDE6B768-ONC12576CD.0029CE20-C12576CD.002B0A49@etas.de>
+References: <OF9F186648.DDE6B768-ONC12576CD.0029CE20-C12576CD.002B0A49@etas.de>
+Message-ID: <20100217082616.GA29856@defiant.alpha>
+
+Hi,
+
+On Wed, Feb 17, 2010 at 08:50:07AM +0100, Udo.Waldenmaier at etas.com wrote:
+> 
+> Hi,
+> first, thank you that you have provided the wikipedia for mobipocket. I will
+> not miss it !
+> 
+> But the last version is from 2008/06.
+> I want to have a newer version.
+> 
+> I have found out, that the build is automated and will be triggered by a static
+> HTML dump of the wikipedia.
+> 
+> I have asded wikipedia, when the next HTML dump will be made (see attached mail
+> in german).
+> They say, that the XML dump is changed to a XML dump.
+> 
+> Are you able to generate the mobipocket version of the wikipedia also from the
+> XML dump ?
+> Will your project die with the proclamation of the HTML dumps ?
+
+That's not really good news. Problem ist: WPMP scripts do not have any
+Wikipedia-Source-2-HTML-Renderer. They rely on prerendered Content.
+Unfortunately, writing a renderer is not an option for me because that's
+actually a lot more work than the original project itself.
+
+I'll ask Tim Starling, if he's able to make another HTML dump.
+
+Best,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+

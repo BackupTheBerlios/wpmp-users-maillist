@@ -1,0 +1,290 @@
+From ladiko at gmail.com  Tue Sep  2 10:56:38 2008
+From: ladiko at gmail.com (Ronny K.)
+Date: Tue, 02 Sep 2008 10:56:38 +0200
+Subject: [Wpmp-users] Zu dumm?
+In-Reply-To: <000001c90b26$a5d25ea0$f1771be0$@kull@t-online.de>
+References: <000001c90b26$a5d25ea0$f1771be0$@kull@t-online.de>
+Message-ID: <48BCFFC6.6050904@gmail.com>
+
+Am besten nochmal runterladen. Wenn's beim entpacken schon besch?digt 
+ist, dann wundert's mich kaum, dass es aufm pda nicht l?uft. wie gro? 
+ist denn die runtergeladenene Datei?
+
+Stefan Kull schrieb:
+> Damen und Herren,
+> ich m?chte gerne die englische Wikipedia auf meinem Medion 41600 lesen 
+> k?nnen. Ich habe daher, wie bei Ihnen beschrieben, die Datei 
+> wpmp-en-200806_1e2 heruntergeladen und entpackt. (Dabei wird gemeldet, 
+> das die Datei wpen120.prc besch?digt sei.). Ich lade ?ber die 
+> Dockingstation alle Dateien auf den PDA und kann auch im Explorer des 
+> PDA alle Dateien sehen und finde eine ?hnliche ?Struktur? wie bei 
+> meiner funktionierenden deutschen Version. Ich bekomme dann aber 
+> gesagt: Fehler / Could not open #startpage.
+> Die Frage lautet: Warum ist das so, eher noch, wie kann man dem abhelfen?
+>
+> Danke f?r die Hilfe und Gru? aus dem Harz
+>
+> Stefan Kull
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> Dr. Stefan Kull
+> Am Breiten Busch 56
+> D-37520 Osterode am Harz
+>
+>
+> Privileged client attorney communication*
+>
+>
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Wpmp-users mailing list
+> Wpmp-users at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/wpmp-users
+
+
+
+From yassine256 at gmail.com  Thu Sep  4 16:25:36 2008
+From: yassine256 at gmail.com (Imounachen Yassine)
+Date: Thu, 4 Sep 2008 15:25:36 +0100
+Subject: [Wpmp-users] Decompression
+Message-ID: <000601c90e9a$233de0a0$6017f829@pcbyki>
+
+Hello, 
+after decompression of file "ftp://ftp5.gwdg.de/pub/wikipedia/mobile/ebooks/fr/wpmp-fr-200709_1.tgz", how much space it will take on my memory card ? 
+Thank you.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080904/a925d085/attachment.html>
+
+From burk at cbs.mpg.de  Thu Sep  4 15:31:31 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 4 Sep 2008 15:31:31 +0200
+Subject: [Wpmp-users] Decompression
+In-Reply-To: <000801c90f45$ebca6600$1219d9c4@pcbyki>
+References: <000601c90e9a$233de0a0$6017f829@pcbyki>
+	<20080903203326.GB3402@defiant.alpha>
+	<000401c90ed0$be9df860$6017f829@pcbyki>
+	<20080904055706.GA9159@defiant.alpha>
+	<000801c90f45$ebca6600$1219d9c4@pcbyki>
+Message-ID: <20080904133131.GA11699@defiant.alpha>
+
+Hi,
+
+On Fri, Sep 05, 2008 at 11:55:05AM +0100, Imounachen Yassine wrote:
+
+[snip]
+
+> One last question: how to search a article ? (wpmp-fr-200806_1e3)
+
+To "search an article", you'll have to find the search function in
+Mobipocket Reader's menu. Remember: All articles of a given Chapter
+(Datafile) will be searched.
+
+To "find an article", you'll have to open wpmp.prc and follow the
+information displayed. This file contains the article-index.
+
+Regards,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From burk at cbs.mpg.de  Thu Sep  4 15:32:13 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 4 Sep 2008 15:32:13 +0200
+Subject: [Wpmp-users] (no subject)
+In-Reply-To: <000b01c90f51$e9a01580$4466d9c4@pcbyki>
+References: <000b01c90f51$e9a01580$4466d9c4@pcbyki>
+Message-ID: <20080904133213.GB11699@defiant.alpha>
+
+Hi,
+
+On Fri, Sep 05, 2008 at 01:20:54PM +0100, Imounachen Yassine wrote:
+> One last question: how to search a article in the encyclopedia?
+> (wpmp-fr-200806_1e3)
+> thank you.
+> EDIT : this version is with or without images?
+
+With formula images, without any other image.
+
+Regards,
+
+Frank
+
+
+From burk at cbs.mpg.de  Thu Sep  4 15:35:52 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 4 Sep 2008 15:35:52 +0200
+Subject: [Wpmp-users] Frage zu Wikipedia-Snaphots
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAAEnYtjOxVDxPjDi7t+nArUzCgAAAEAAAANvm2NGOIOJGvewIc6sIYuIBAAAAAA==@arcor.de>
+References: <!&!AAAAAAAAAAAYAAAAAAAAAEnYtjOxVDxPjDi7t+nArUzCgAAAEAAAANvm2NGOIOJGvewIc6sIYuIBAAAAAA==@arcor.de>
+Message-ID: <20080904133552.GC11699@defiant.alpha>
+
+Hi,
+
+On Thu, Sep 04, 2008 at 02:56:55PM +0200, adminarea at arcor.de wrote:
+> Hallo !
+>  
+> Zun?chst einmal vielen Dank f?r den super Service !
+>  
+>  
+> Gibt es irgendwo noch eine Download-M?glichkeit ?lterer Snapshots ?
+
+Nein. Die aktuelle en-Version ist ueberhaupt die erste, die offiziell
+released ist. Es ist moeglich, die Artikelliste einzudampfen, um
+nur "relevante" Artikel aufzunehmen und so ein kleineres Release zu erzeugen.
+Das hab' ich jedoch noch nicht gemacht.
+
+Viele Gruesse,
+
+Frank
+
+
+From burk at cbs.mpg.de  Fri Sep  5 11:08:55 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Fri, 5 Sep 2008 11:08:55 +0200
+Subject: [Wpmp-users] Frage zu Wikipedia-Snaphots
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAAEnYtjOxVDxPjDi7t+nArUzCgAAAEAAAAGdAihB0ckBKv2GBjS4CScMBAAAAAA==@online.de>
+References: <!&!AAAAAAAAAAAYAAAAAAAAAEnYtjOxVDxPjDi7t+nArUzCgAAAEAAAANvm2NGOIOJGvewIc6sIYuIBAAAAAA==@arcor.de>
+	<20080904133552.GC11699@defiant.alpha>
+	<!&!AAAAAAAAAAAYAAAAAAAAAEnYtjOxVDxPjDi7t+nArUzCgAAAEAAAAGdAihB0ckBKv2GBjS4CScMBAAAAAA==@online.de>
+Message-ID: <20080905090855.GA20096@defiant.alpha>
+
+Hallo,
+
+On Thu, Sep 04, 2008 at 04:45:05PM +0200, Hans-Martin Engenhart wrote:
+
+[snip]
+
+> Warum gibt's eigentlich keine Mobipocket-Wikis mit Bildern, so wie es das
+> anscheinend f?r Tomeraider gibt?
+
+Ich hab' mich schon Versionen mit Bildern vesucht. Ab einer gewissen Anzahl
+von Bildern pro Datenfile stuerzte der Mobipocket-Kompressor reproduzierbar
+ab.
+
+Ausserdem wurden meine Skripte fuer die 2008er Version ueberarbeitet. Es
+fehlt allerdings noch die Funktion fuer die Bereinigung von Bildern. Laut
+Aussagen eines Mobipocket-Gurus koennte es naemlich fehlerhafte Metadaten in
+den WP-Bildern gewesen sein, die den Absturz verursachten.
+
+> Ist die Komprimierung von mobipocket so viel schlechter wie die von
+> tomeraider ?
+
+Das weiss ich leider nicht. Ich hab' mich noch nie mit Tomeraider
+beschaeftigt. Das lieft auf meinem Handy afaik gar nicht.
+
+Viele Gruesse,
+
+Frank
+
+
+From yassine256 at gmail.com  Sat Sep  6 12:56:38 2008
+From: yassine256 at gmail.com (Imounachen Yassine)
+Date: Sat, 6 Sep 2008 11:56:38 +0100
+Subject: [Wpmp-users] Index file
+Message-ID: <000a01c9100f$8c3d47f0$ec29d9c4@pcbyki>
+
+Hi,
+I can't find the index file in wpmp-fr-200806_1e3.
+Please help.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080906/5e13b3b3/attachment.html>
+
+From burk at cbs.mpg.de  Fri Sep  5 14:32:32 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Fri, 5 Sep 2008 14:32:32 +0200
+Subject: [Wpmp-users] Index file
+In-Reply-To: <000a01c9100f$8c3d47f0$ec29d9c4@pcbyki>
+References: <000a01c9100f$8c3d47f0$ec29d9c4@pcbyki>
+Message-ID: <20080905123232.GC21332@defiant.alpha>
+
+Hi,
+
+On Sat, Sep 06, 2008 at 11:56:38AM +0100, Imounachen Yassine wrote:
+> Hi,
+> I can't find the index file in wpmp-fr-200806_1e3.
+
+The file's name is wpfr.prc . Unfortunately, I don't know, how to help
+more - the file is definitely included in the archive. I just checked.
+
+Regards,
+
+Frank
+
+
+From yassine256 at gmail.com  Sat Sep  6 14:04:34 2008
+From: yassine256 at gmail.com (Imounachen Yassine)
+Date: Sat, 6 Sep 2008 13:04:34 +0100
+Subject: [Wpmp-users] French version
+Message-ID: <002001c91018$cc2a17e0$ec29d9c4@pcbyki>
+
+Hi,
+in wpmp-fr-200806-1e3
+after uncompress, i have many problems:
+- 7z says to me : file wpfr_34.prc is broken
+- I have only 800 of data
+- I can't find wpfr.prc (index file)
+please explain me in details.
+thanks for you help.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080906/fe0800d2/attachment.html>
+
+From yassine256 at gmail.com  Sun Sep  7 01:41:24 2008
+From: yassine256 at gmail.com (Imounachen Yassine)
+Date: Sun, 7 Sep 2008 00:41:24 +0100
+Subject: [Wpmp-users] wpfr.prc
+Message-ID: <001401c9107a$14ae1fa0$bd6bd9c4@pcbyki>
+
+I have downloaded wpmp-fr-200806_1e.
+I have a COMPLETE and 7z not say any errors file but I have only wpfr_(number).prc files, and i have NOT wpfr.prc (index).
+Can you upload the file independently?
+I'm very interressed with this project, please help me!
+
+Regards,
+Yassine
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080907/b86861a6/attachment.html>
+
+From burk at cbs.mpg.de  Tue Sep  9 09:21:48 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Tue, 9 Sep 2008 09:21:48 +0200
+Subject: [Wpmp-users] wpfr.prc
+In-Reply-To: <001401c9107a$14ae1fa0$bd6bd9c4@pcbyki>
+References: <001401c9107a$14ae1fa0$bd6bd9c4@pcbyki>
+Message-ID: <20080909072148.GB20794@defiant.alpha>
+
+Hi,
+
+On Sun, Sep 07, 2008 at 12:41:24AM +0100, Imounachen Yassine wrote:
+> I have downloaded wpmp-fr-200806_1e.
+> I have a COMPLETE and 7z not say any errors file but I have only wpfr_
+> (number).prc files, and i have NOT wpfr.prc (index).
+> Can you upload the file independently?
+> I'm very interressed with this project, please help me!
+
+You'll have to wait a week or two for that. I'm currently at a conference.
+
+Regards,
+
+Frank
+
+

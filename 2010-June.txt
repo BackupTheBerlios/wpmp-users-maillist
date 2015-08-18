@@ -1,0 +1,35 @@
+From rm369 at arcor.de  Tue Jun  8 19:49:32 2010
+From: rm369 at arcor.de (Roland Meier)
+Date: Tue, 8 Jun 2010 19:49:32 +0200 (CEST)
+Subject: [Wpmp-users] Warum brauchst Du einen "offiziellen" HTML-Dump?
+In-Reply-To: <5766037.1276017990714.JavaMail.ngmail@webmail11.arcor-online.net>
+References: <5766037.1276017990714.JavaMail.ngmail@webmail11.arcor-online.net>
+Message-ID: <17537505.1276019372580.JavaMail.ngmail@webmail11.arcor-online.net>
+
+Hallo Frank,
+
+vielleicht ist es eine dumme Frage, aber ich habe sie in den Diskussionen noch nichts dazu gelesen.
+Warum brauchst Du eigentlich einen HTML-Dump von den Wikipedia-Maintainern?
+Sind nicht die normal im Netz herunterladbaren Seiten das Gleiche (zumindest f?r Deine Zwecke)?
+W?rde nicht ein rekursives wget (mit Einschr?nkungen auf die Site de.wikipedia.org und Filetyp *.html) Dir jederzeit liefern k?nnen, was Du brauchst?
+OK, durch die Dauer, die es br?uchte, sowas herunterzuladen, entst?nden zwar Inkonsistenzen bei in dieser Zeit umbenannten, gel?schten oder neu hinzukommenden Artikeln, aber das hielte sich sicher in Grenzen und w?re einem mittlerweile 2 Jahre alten Datenstand sicher vorzuziehen.
+
+Eine Alternative w?re, sich mit dem Entwickler von WikiTaxi in Verbindung zu setzen:
+http://www.wikitaxi.org/delphi/doku.php/wiki/wikitaxi/index?DokuWiki=feqd10r31veii5l2eoifgteht2
+Dessen Importer ist wohl Freie Software und k?nne wohl auch so modifiziert werden, da? er erzeugt, was Du brauchst (aus dem XML-Dump, also ohne die Probleme eines rekursiven Downloads).
+
+Ich f?nde es sehr schade, wenn dieses gro?artige Projekt, das mir schon unz?hlige wertvolle Dienste geleistet hat, einfach st?rbe, nur weil irgend ein Unbeteiligter entscheidet, etwas nicht mehr extra zu tun, was st?ndig automatisiert sowieso passiert.
+
+Danke f?r Deine gro?artige Arbeit!
+
+
+-- 
+Mit freundlichen Gr??en
+Roland Meier
+     \|||/      
+     (o o)      
+==ooO==U==Ooo== 
+mailto:rm369 at arcor.de
+
+
+

@@ -1,0 +1,217 @@
+From wpmp at continuity.cjb.net  Sun Jul  5 16:36:25 2009
+From: wpmp at continuity.cjb.net (Kiesel)
+Date: Sun, 5 Jul 2009 16:36:25 +0200 (CEST)
+Subject: [Wpmp-users] Mobipocket Reader J2ME B078+wpmp-de-200806_1e => "An
+ unknown error occurred"
+Message-ID: <alpine.DEB.1.10.0907051621270.15218@bluebox.conspiracy.net>
+
+Hi!
+
+Using MP Reader B078 on a K750i mobile with wpmp-de-200806_1e results in 
+the incredibly helpful message "An unknown error occurred" when trying to 
+open wpde.prc/wpmp_enc_de. Also, the preview 'covers' of all .prc files 
+seem to be garbled (mostly displaying math formulas...?!).
+
+Interestingly, opening SOME of the files (at least wpde39.prc, wpde6.prc) 
+works. Covers of these files are garbled, too, and wpde6 is quite large 
+(56M - second largest file in wpde) so this does not seem to be some size 
+limit.
+
+Any suggestions?
+
+Regards
+
+
+From marcus.ertle at gmx.de  Tue Jul  7 20:05:21 2009
+From: marcus.ertle at gmx.de (Marcus Ertle)
+Date: Tue, 7 Jul 2009 20:05:21 +0200
+Subject: [Wpmp-users] actual version german wikipedia
+Message-ID: <000001c9ff2d$7ec01ae0$7c4050a0$@ertle@gmx.de>
+
+Will there be a more actual version ?
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20090707/fb3e036a/attachment.html>
+
+From wpmp at continuity.cjb.net  Thu Jul  9 11:50:41 2009
+From: wpmp at continuity.cjb.net (Kiesel)
+Date: Thu, 9 Jul 2009 11:50:41 +0200 (CEST)
+Subject: [Wpmp-users] Mobipocket Reader J2ME B078+wpmp-de-200806_1e =>
+ "An unknown error occurred"
+In-Reply-To: <20090709085418.GA30238@defiant.alpha>
+References: <alpine.DEB.1.10.0907051621270.15218@bluebox.conspiracy.net>
+	<20090709085418.GA30238@defiant.alpha>
+Message-ID: <alpine.DEB.1.10.0907091136160.22621@bluebox.conspiracy.net>
+
+On Thu, 9 Jul 2009, Frank Burkhardt wrote:
+
+>> Using MP Reader B078 on a K750i mobile with wpmp-de-200806_1e
+...
+> You're the first one I know of who is using the J2Me Reader.
+> What do you mean by "Preview Cover"?
+
+For each eBook (file), a preview cover is shown in the eBook selection 
+screen. I don't have a camera here but see pictures 2 and 7 at
+  http://www.thuvien-ebook.com/forums/showpost.php?p=111933
+to see the thing. For wpmp, garbage/math formulas are shown there.
+
+In the meantime I found out that MPR B078 seems not to support multi-part 
+books:
+Since wpmp-de-200806_1e didn't work for me at all, I installed an older 
+Wikipedia PRC from
+  http://www.ralfzimmermann.de/wikipedia.ger.html
+- for its main file (1.8), MPR says "Multi-parts books aren't supported" 
+(for wpmp just a generic error message was shown); most of the individual 
+files of that download open in MPR but some (G1, H1, ...) don't :-(.
+
+I guess that MPR J2ME just isn't there yet. Unfortunately it seems that 
+its development has pretty much stopped - there's not much activity on its 
+forums, and even the JAR certificate for the download has expired so you 
+have to have to tinker with the mobile's current date when installing the 
+application ;-). I wonder why there's no open source eBook reader (and 
+format) for J2ME...
+
+Regards
+
+
+From burk at cbs.mpg.de  Thu Jul  9 12:19:59 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 9 Jul 2009 12:19:59 +0200
+Subject: [Wpmp-users] Mobipocket Reader J2ME B078+wpmp-de-200806_1e =>
+	"An unknown error occurred"
+In-Reply-To: <alpine.DEB.1.10.0907091136160.22621@bluebox.conspiracy.net>
+References: <alpine.DEB.1.10.0907051621270.15218@bluebox.conspiracy.net>
+	<20090709085418.GA30238@defiant.alpha>
+	<alpine.DEB.1.10.0907091136160.22621@bluebox.conspiracy.net>
+Message-ID: <20090709101959.GD30238@defiant.alpha>
+
+Hi,
+
+On Thu, Jul 09, 2009 at 11:50:41AM +0200, Kiesel wrote:
+> On Thu, 9 Jul 2009, Frank Burkhardt wrote:
+> 
+> >> Using MP Reader B078 on a K750i mobile with wpmp-de-200806_1e
+> ...
+> > You're the first one I know of who is using the J2Me Reader.
+> > What do you mean by "Preview Cover"?
+> 
+> For each eBook (file), a preview cover is shown in the eBook selection 
+> screen. I don't have a camera here but see pictures 2 and 7 at
+>   http://www.thuvien-ebook.com/forums/showpost.php?p=111933
+> to see the thing. For wpmp, garbage/math formulas are shown there.
+
+Hmm ... I never define a cover for WPMP's prc-files.
+
+[snip]
+
+> I guess that MPR J2ME just isn't there yet. Unfortunately it seems that 
+> its development has pretty much stopped - there's not much activity on its 
+> forums, and even the JAR certificate for the download has expired so you 
+> have to have to tinker with the mobile's current date when installing the 
+> application ;-). I wonder why there's no open source eBook reader (and 
+> format) for J2ME...
+
+Because designing a highly compressing format which can be accessed randomly
+while using little memory/cpu is quite a challenge - especially if there's
+hypertext and embedded stuff (images,formulas) involved.
+
+Regards,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From wpmp at continuity.cjb.net  Thu Jul  9 17:15:24 2009
+From: wpmp at continuity.cjb.net (Kiesel)
+Date: Thu, 9 Jul 2009 17:15:24 +0200 (CEST)
+Subject: [Wpmp-users] OSS eBook format, was: Mobipocket Reader J2ME...
+In-Reply-To: <20090709101959.GD30238@defiant.alpha>
+References: <alpine.DEB.1.10.0907051621270.15218@bluebox.conspiracy.net>
+	<20090709085418.GA30238@defiant.alpha>
+	<alpine.DEB.1.10.0907091136160.22621@bluebox.conspiracy.net>
+	<20090709101959.GD30238@defiant.alpha>
+Message-ID: <alpine.DEB.1.10.0907091704570.25197@bluebox.conspiracy.net>
+
+On Thu, 9 Jul 2009, Frank Burkhardt wrote:
+
+>> I wonder why there's no open source eBook reader (and format) for 
+>> J2ME...
+> Because designing a highly compressing format which can be accessed 
+> randomly while using little memory/cpu is quite a challenge
+
+There's already code and tools for exactly this:
+http://squashfs.sourceforge.net/
+http://sourceforge.net/projects/jsquashfs/
+
+> especially if there's hypertext and embedded stuff (images,formulas) 
+> involved.
+
+Why not just use (a restricted subset of) HTML?
+
+I don't know whether some kind of lightweight Lucene version for full text 
+search exists. Then again a normal index is probably enough on a simple 
+device though.
+
+Regards
+
+
+From burk at cbs.mpg.de  Thu Jul  9 17:54:57 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 9 Jul 2009 17:54:57 +0200
+Subject: [Wpmp-users] OSS eBook format, was: Mobipocket Reader J2ME...
+In-Reply-To: <alpine.DEB.1.10.0907091704570.25197@bluebox.conspiracy.net>
+References: <alpine.DEB.1.10.0907051621270.15218@bluebox.conspiracy.net>
+	<20090709085418.GA30238@defiant.alpha>
+	<alpine.DEB.1.10.0907091136160.22621@bluebox.conspiracy.net>
+	<20090709101959.GD30238@defiant.alpha>
+	<alpine.DEB.1.10.0907091704570.25197@bluebox.conspiracy.net>
+Message-ID: <20090709155457.GD328@defiant.alpha>
+
+Hi,
+
+On Thu, Jul 09, 2009 at 05:15:24PM +0200, Kiesel wrote:
+> On Thu, 9 Jul 2009, Frank Burkhardt wrote:
+> 
+> >> I wonder why there's no open source eBook reader (and format) for 
+> >> J2ME...
+> > Because designing a highly compressing format which can be accessed 
+> > randomly while using little memory/cpu is quite a challenge
+> 
+> There's already code and tools for exactly this:
+> http://squashfs.sourceforge.net/
+> http://sourceforge.net/projects/jsquashfs/
+> 
+> > especially if there's hypertext and embedded stuff (images,formulas) 
+> > involved.
+> 
+> Why not just use (a restricted subset of) HTML?
+
+Because someone has to write it. You need to manage millions of small files,
+render Text,Tables,Lists,Images,Links,... which is not a problem on a full
+grown desktop computer but difficult, if you have to support lots of
+plattforms (Symbian S60,S80,Android,iPhone,Win CE,...) . You'll end up using
+Java which has poor performance.
+
+> I don't know whether some kind of lightweight Lucene version for full text 
+> search exists. Then again a normal index is probably enough on a simple 
+> device though.
+
+Mobipocket does have a fulltext search feature but it's not usefull in
+WPMP eBooks because of their internal structure.
+
+If you know anyone who is willing/able to write a mobile viewing
+application, let me know - I'll happily provide a sample eBook. If it's
+really working, I'll provide eBooks alongside with Mobipocket ones whenever 
+HTML dumps are released.
+
+Best,
+
+Frank
+
+

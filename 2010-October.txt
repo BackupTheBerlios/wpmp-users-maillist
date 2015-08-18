@@ -1,0 +1,61 @@
+From marco at vmsoft-gbr.de  Thu Oct  7 23:43:01 2010
+From: marco at vmsoft-gbr.de (VMSoft GbR, Marco Schuster)
+Date: Thu, 7 Oct 2010 23:43:01 +0200
+Subject: [Wpmp-users] German Wikipedia update, or: The Revival of the Dump
+Message-ID: <AANLkTinGz98CuUaC5OZ68PbAjFwHUrZtCdys-MWoC8WK@mail.gmail.com>
+
+Hi all!
+
+I've got some great news for you... there is a (unofficial though)
+static dump of German Wikipedia right in the making, see
+<http://lists.wikimedia.org/pipermail/wikitech-l/2010-September/049648.html>.
+Currently I'm waiting for Wikimedia to decide if they'll give me
+access to the dumpserver and maybe some server for compression and
+conversion.
+So, in about a month there may be a new edition of the deWP Mobipocket
+version, if all goes as planned :)
+
+Marco
+
+-- 
+VMSoft GbR
+Nabburger Str. 15
+81737 M?nchen
+Gesch?ftsf?hrer: Marco Schuster, Volker Hemmert
+http://vmsoft-gbr.de
+
+
+From abel.carril at gmail.com  Fri Oct 22 14:06:33 2010
+From: abel.carril at gmail.com (Abel)
+Date: Fri, 22 Oct 2010 14:06:33 +0200
+Subject: [Wpmp-users] Mobipocket to be disappearing?
+Message-ID: <AANLkTimb8SxTgFCPyZQow1MDfk3N199xjDLJT3dEJwW5@mail.gmail.com>
+
+Dear WPMP project researchers and users, mobipocket support at their web
+site look quite outdated, no new versions for new mobile platforms like
+Android, not even Windows 7 officially supported. With new mobile phones,
+specially tactile ones, mobipocket reader is unusable, or directly not
+supported.
+It's a pity, but I believe that this great contribution to human knowledge
+availability is going to die with mobipocket. Am I right?
+
+Thanks for your support
+Best wishes
+
+-----------
+Lieber WPMP Projekt Forscher und Anwender, Mobipocket Unterst?tzung auf
+ihrer Website sehen ziemlich veraltet, keine neuen Versionen f?r neue mobile
+Plattformen wie Android, nicht einmal Windows 7 offiziell unterst?tzt. Mit
+den neuen Handys, speziell taktile Lieben, ist Mobipocket Reader unbrauchbar
+oder direkt nicht unterst?tzt.
+Es ist schade, aber ich glaube, dass diese gro?en Beitrag zur menschlichen
+Wissens Verf?gbarkeit wird mit Mobipocket sterben. Habe ich recht?
+
+Danke f?r eure Unterst?tzung
+Mit freundlichen Gr??en
+-- 
+Abel
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20101022/67c0da7e/attachment.html>
+

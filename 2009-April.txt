@@ -1,0 +1,144 @@
+From cstorch at gmx.net  Wed Apr  1 11:39:11 2009
+From: cstorch at gmx.net (christian storch)
+Date: Wed, 01 Apr 2009 11:39:11 +0200
+Subject: [Wpmp-users] new version
+Message-ID: <20090401093911.287260@gmx.net>
+
+hello frank and all,
+
+thanks for your great work!
+
+i am hoping for a newer version of wpmp than 06.2008.
+what do you think?
+
+i saw a version from 01.2009 for tomeraider: http://de.wikipedia.org/wiki/Wikipedia:Unterwegs
+
+where do they get the data from.
+
+greetings
+
+cstorch
+-- 
+Neu: GMX FreeDSL Komplettanschluss mit DSL 6.000 Flatrate + Telefonanschluss f?r nur 17,95 Euro/mtl.!* http://dsl.gmx.de/?ac=OM.AD.PD003K11308T4569a
+
+
+From burk at cbs.mpg.de  Wed Apr  1 12:09:26 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Wed, 1 Apr 2009 12:09:26 +0200
+Subject: [Wpmp-users] new version
+In-Reply-To: <20090401093911.287260@gmx.net>
+References: <20090401093911.287260@gmx.net>
+Message-ID: <20090401100925.GA24483@defiant.alpha>
+
+Hi,
+
+On Wed, Apr 01, 2009 at 11:39:11AM +0200, christian storch wrote:
+> hello frank and all,
+> 
+> thanks for your great work!
+
+You're welcome :-)
+
+> i am hoping for a newer version of wpmp than 06.2008.
+> what do you think?
+
+As soon as there's a new HTML dump on http://static.wikipedia.org/ 
+I'll be able start work on a new release.
+
+> i saw a version from 01.2009 for tomeraider: http://de.wikipedia.org/wiki/Wikipedia:Unterwegs
+> 
+> where do they get the data from.
+
+AFAIK, they access either the database or the mediawiki XML-dumps and render
+the articles themselves.
+
+Best,
+
+Frank
+
+
+From cstorch at gmx.net  Wed Apr  1 14:33:04 2009
+From: cstorch at gmx.net (christian storch)
+Date: Wed, 01 Apr 2009 14:33:04 +0200
+Subject: [Wpmp-users] new version
+Message-ID: <20090401123304.287270@gmx.net>
+
+hello frank and all again,
+
+thanks for your fast reply.
+
+i realized that you drop any category sites, e.g. 
+http://de.wikipedia.org/wiki/Kategorie:Gemeinde_in_Th%C3%BCringen
+
+what are the reason for that?
+it would be nice to have these sites.
+
+greetings
+
+cstorch
+
+
+-- 
+Psssst! Schon vom neuen GMX MultiMessenger geh?rt? Der kann`s mit allen: http://www.gmx.net/de/go/multimessenger01
+
+
+From burk at cbs.mpg.de  Wed Apr  1 15:04:39 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Wed, 1 Apr 2009 15:04:39 +0200
+Subject: [Wpmp-users] new version
+In-Reply-To: <20090401123304.287270@gmx.net>
+References: <20090401123304.287270@gmx.net>
+Message-ID: <20090401130439.GB25532@defiant.alpha>
+
+Hi,
+
+On Wed, Apr 01, 2009 at 02:33:04PM +0200, christian storch wrote:
+> hello frank and all again,
+> 
+> thanks for your fast reply.
+> 
+> i realized that you drop any category sites, e.g. 
+> http://de.wikipedia.org/wiki/Kategorie:Gemeinde_in_Th%C3%BCringen
+
+This was purely a memory-based decision. These Articles do not contain real
+content but consume a lot of memory. However, the conversion scripts are
+able to include category-articles.
+
+Best,
+
+Frank
+
+
+From burk at cbs.mpg.de  Thu Apr  2 13:02:27 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 2 Apr 2009 13:02:27 +0200
+Subject: [Wpmp-users] new version
+In-Reply-To: <20090401141650.287290@gmx.net>
+References: <20090401123304.287270@gmx.net>
+	<20090401130439.GB25532@defiant.alpha>
+	<20090401141650.287290@gmx.net>
+Message-ID: <20090402110227.GA31301@defiant.alpha>
+
+Hi,
+
+On Wed, Apr 01, 2009 at 04:16:50PM +0200, christian storch wrote:
+
+[snip]
+
+> > but consume a lot of memory. However, the conversion scripts are
+> 
+> how much memory would it be? i think with our german wpmp with 1.5gb there
+> is some space to 2gb which ist the least card to use in mobile gadges.
+
+Since Wikipedia will have grown a bit since the last version, it will most
+likely exceed 2GB already which means, I'll have to remove real articles
+to make it smaller.
+
+Unfortunately, all my mobile devices have a 2GB limit which makes it
+hard to test bigger releases.
+
+Best,
+
+Frank
+
+

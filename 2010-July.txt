@@ -1,0 +1,116 @@
+From Kurt.Schulz at volkswagen-otlg.de  Wed Jul  7 16:53:11 2010
+From: Kurt.Schulz at volkswagen-otlg.de (Schulz, Kurt ( OTLG ))
+Date: Wed, 7 Jul 2010 16:53:11 +0200
+Subject: [Wpmp-users] Fehler beim Suchen mit Mobipocket
+Message-ID: <36CB846722DE5B4D90D010B7CE9E93DD01D2DC02@otlg1420sec0001.otlg.vwg>
+
+
+Hallo,
+
+erstmal danke f?r den freien Download von Wikipedia.
+Habe die Datendateien in den Ordner ebooks auf meiner SD-Card auf meinem Palm Centro geladen - alles OK.
+Habe mir von Ihrer Downloadseite den Mobipocket heruntergeladen und auf meinem Handheld installiert - auch OK.
+Wenn ich jetzt im Mobipocket die Suchzeile aufrufen will um einen Suchbegriff einzugeben kommt die Fehlermeldung
+"Datei nicht gefunden" - was fehlt mir denn oder woran liegt's ??
+
+Die Bibliothek-Dateien im Mobipocket z.Bsp. "Wikipedia de subdoc 24" bekomme ich einwandfrei angezeigt.
+
+Danke f?r Ihre Hilfe
+
+
+Mit freundlichen Gr??en
+
+Kurt Schulz
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20100707/1754a18d/attachment.html>
+
+From burk at cbs.mpg.de  Fri Jul  9 16:16:49 2010
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Fri, 9 Jul 2010 16:16:49 +0200
+Subject: [Wpmp-users] Fehler beim Suchen mit Mobipocket
+In-Reply-To: <36CB846722DE5B4D90D010B7CE9E93DD01D2DC02@otlg1420sec0001.otlg.vwg>
+References: <36CB846722DE5B4D90D010B7CE9E93DD01D2DC02@otlg1420sec0001.otlg.vwg>
+Message-ID: <20100709141649.GC25708@postman.alpha>
+
+Hi,
+
+On Wed, Jul 07, 2010 at 04:53:11PM +0200, Schulz, Kurt ( OTLG ) wrote:
+> 
+> Hallo,
+> 
+> erstmal danke f?r den freien Download von Wikipedia.
+> Habe die Datendateien in den Ordner ebooks auf meiner SD-Card auf meinem Palm
+> Centro geladen - alles OK.
+> Habe mir von Ihrer Downloadseite den Mobipocket heruntergeladen und auf meinem
+> Handheld installiert - auch OK.
+> Wenn ich jetzt im Mobipocket die Suchzeile aufrufen will um einen Suchbegriff
+> einzugeben kommt die Fehlermeldung
+> "Datei nicht gefunden" - was fehlt mir denn oder woran liegt's ??
+> 
+> Die Bibliothek-Dateien im Mobipocket z.Bsp. "Wikipedia de subdoc 24" bekomme
+> ich einwandfrei angezeigt.
+
+Auf meinem Symbian Series 80 muessen die Dateien im direkt Unterverzeichnis
+"ebooks" liegen, damit sie gefunden werden.
+
+Ich vermute einfach mal, dass das auf Deinem Palm genauso ist.
+
+Viele Gruesse,
+
+Frank
+
+
+From nutrition_aden at yahoo.com  Sat Jul 17 17:36:29 2010
+From: nutrition_aden at yahoo.com (mohammad bashir)
+Date: Sat, 17 Jul 2010 08:36:29 -0700 (PDT)
+Subject: [Wpmp-users] update of wikipedia
+Message-ID: <740906.86675.qm@web35302.mail.mud.yahoo.com>
+
+Dear Sir;
+
+the offline wikipedia for mobipocket reader is wounderfull effort.
+
+Is there any update for this wikipedia, where last update was in 2008
+
+
+thanks,
+
+Mohammad Basheer
+
+
+      
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20100717/c1b0d1de/attachment.html>
+
+From cstorch at gmx.net  Wed Jul 21 09:36:45 2010
+From: cstorch at gmx.net (christian storch)
+Date: Wed, 21 Jul 2010 09:36:45 +0200
+Subject: [Wpmp-users] update of wikipedia
+In-Reply-To: <740906.86675.qm@web35302.mail.mud.yahoo.com>
+References: <740906.86675.qm@web35302.mail.mud.yahoo.com>
+Message-ID: <20100721073645.123890@gmx.net>
+
+
+-------- Original-Nachricht --------
+> Datum: Sat, 17 Jul 2010 08:36:29 -0700 (PDT)
+> Von: mohammad bashir <nutrition_aden at yahoo.com>
+> An: wpmp-users at lists.berlios.de, burk at cbs.mpg.de
+> Betreff: [Wpmp-users] update of wikipedia
+
+> Dear Sir;
+> 
+> the offline wikipedia for mobipocket reader is wounderfull effort.
+> 
+> Is there any update for this wikipedia, where last update was in 2008
+> 
+
+there is no update, because wikipedia dont make dumps we need any moore.
+
+-- 
+GRATIS f?r alle GMX-Mitglieder: Die maxdome Movie-FLAT!
+Jetzt freischalten unter http://portal.gmx.net/de/go/maxdome01
+
+

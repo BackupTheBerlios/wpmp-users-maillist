@@ -1,0 +1,568 @@
+From sven.dziadek at gmx.de  Thu Jan  1 18:56:33 2009
+From: sven.dziadek at gmx.de (Sven Dziadek)
+Date: Thu, 01 Jan 2009 18:56:33 +0100
+Subject: [Wpmp-users] broken links in german encyclopedia
+Message-ID: <495D03D1.3090307@gmx.de>
+
+Hi!
+I installed the German encyclopedia of June 2008. First I had an older
+version..
+But at the search for articles there are some first letters missing.
+E.g. Articles which begin with s, t, r, p, m, z are not findable.
+I think thats the bug witch was fixed at 13.08.08 but I am not sure (my
+English is not so good...).
+But the encyclopedia of June 2008 was released before the release of the
+bug fix. When will the bug fix be included in the encyclopedia?
+Or am I the only person, who had this problem. Perhaps I should retry
+downloading and installing it?
+Thanks for help,
+	Sven Dziadek
+
+
+From peter.thalmeir at t-online.de  Fri Jan  2 15:07:49 2009
+From: peter.thalmeir at t-online.de (Peter Thalmeir T-Online)
+Date: Fri, 2 Jan 2009 15:07:49 +0100
+Subject: [Wpmp-users] Asking for help on "manually creating a directory"
+Message-ID: <009501c96ce3$7efa03e0$7cee0ba0$@thalmeir@t-online.de>
+
+Hi Frank,
+
+ 
+
+First of all, I would like to thank you big time. If I get this WPMP working
+on my mobile phone, you definitely made my life a big step easier and me
+much happier!!!
+
+ 
+
+However, I am not completely there yet. I am using a N96 and under 
+
+ 
+
+Bugs and Un-nice-ities 
+
+There is the following entry:
+
+For Symbian Series 60 (S60) 3rd edition, the mobipocket reader 5.3 build 576
+has some known bugs affecting usage of WPMP encyclopedia. You can not search
+the book text and "start" and "first page" do not work. You have to manually
+create the directory 
+
+Unfortunately, the bug information by Georg Dembowski:  
+
+ 
+
+eBooks in the root of your memory card and inside it (or a subfolder) wpmp
+in order to have it listed in the library. (Bug information by Georg
+Dembowski)
+
+ 
+
+does not help me much. I have no idea how to create a directory manually to
+"fix" that bug, therefore am looking for help (quick email, documentation.)
+to get the last step done.
+
+ 
+
+If anyone could help me, this would be much appreciated!
+
+ 
+
+Cheers
+
+ 
+
+Peter 
+
+ 
+
+ 
+
+ 
+
+P Please consider your environmental responsibility before printing any
+documents
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20090102/88e862be/attachment.html>
+
+From burk at cbs.mpg.de  Sat Jan  3 19:29:24 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Sat, 3 Jan 2009 19:29:24 +0100
+Subject: [Wpmp-users] Asking for help on "manually creating a directory"
+Message-ID: <20090103182924.GA24083@defiant.alpha>
+
+Hi,
+
+On Fri, Jan 02, 2009 at 03:07:49PM +0100, Peter Thalmeir T-Online wrote:
+> Hi Frank,
+> 
+>  
+> 
+> First of all, I would like to thank you big time. If I get this WPMP working on
+> my mobile phone, you definitely made my life a big step easier and me much
+> happier!!!
+
+You're welcome :-) .
+
+[snip]
+
+> does not help me much. I have no idea how to create a directory manually to
+> ?fix? that bug, therefore am looking for help (quick email, documentation?) to
+> get the last step done.
+
+You could either create the directory on your PC using an USB card reader to
+write your memory card or use an application like fexplorer:
+
+ http://www.gosymbian.com/fexplorer_new.php
+
+Regards,
+
+Frank
+
+
+From burk at cbs.mpg.de  Mon Jan  5 08:37:52 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Mon, 5 Jan 2009 08:37:52 +0100
+Subject: [Wpmp-users] Asking for help on "manually creating a directory"
+In-Reply-To: <000b01c96eaf$9f044880$dd0cd980$@thalmeir@t-online.de>
+References: <20090103182924.GA24083@defiant.alpha>
+	<000b01c96eaf$9f044880$dd0cd980$@thalmeir@t-online.de>
+Message-ID: <20090105073752.GA5459@defiant.alpha>
+
+Hi,
+
+please do reply to the list always.
+
+On Sun, Jan 04, 2009 at 10:01:31PM +0100, Peter Thalmeir T-Online wrote:
+> Hi Frank,
+> 
+> Thanks for your quick reply!
+> 
+> First of all, I think you should also install something like the
+> "donation" section (I saw that on
+> http://www.gosymbian.com/fexplorer_new.php) on your web site. I definitely
+> would like to share a few Euros with you, I really appreciate your work.
+
+That's not possible. There are some constraints, preventing me from
+accepting any money. However, if you've got a spare mobile phone model which you
+no longer have use for (and which I do not have already), you could "donate" it
+to improve my testing abilities.
+
+[snip]
+
+> I did not quite understand what FExplorer can do for me here. Can you
+> please help me and share some more ideas? (I know that you are probably
+> spending a lot of time supporting your cool tool anyway and sorry for any
+> inconvenience I am causing!!)
+
+Fexplorer is a file manager. It will hapilly create directories and move
+files for you. I thought, you were looking for something like that...
+
+> I see that your English is perfect, however,
+
+I hardly think so - but thanks anyway :-)
+
+> if you want to write in German, that's just as good for me, I am German
+> also.
+
+The mailing list is in english because. WPMP is about converting multiple
+wikipedia languages versions - not just the german one. This way,
+conversations are usefull more users.
+
+Regards,
+
+Frank
+
+
+From peter.thalmeir at t-online.de  Mon Jan  5 09:19:56 2009
+From: peter.thalmeir at t-online.de (Peter Thalmeir T-Online)
+Date: Mon, 5 Jan 2009 09:19:56 +0100
+Subject: [Wpmp-users] Asking for help on "manually creating a directory"
+In-Reply-To: <20090105073752.GA5459@defiant.alpha>
+References: <20090103182924.GA24083@defiant.alpha>
+	<000b01c96eaf$9f044880$dd0cd980$@thalmeir@t-online.de>
+	<20090105073752.GA5459@defiant.alpha>
+Message-ID: <001201c96f0e$64bbe2f0$2e33a8d0$@thalmeir@t-online.de>
+
+Hi Frank,
+
+Thanks again for your quick reply and I got your points below.
+
+Just a quick last one:
+I have all the prc files in the main (root) directory and would like to
+"organize" it some more (have one folder with all the prc files, so that
+also only one entry shows in the Mobireader). Mobireader only can handle all
+the files if they are in the root directory. Is there a way to change that?
+
+Cheers
+
+Peter
+
+
+-----Original Message-----
+From: Frank Burkhardt [mailto:burk at cbs.mpg.de] 
+Sent: 05 January 2009 08:38
+To: wpmp-users at lists.berlios.de; Peter Thalmeir T-Online
+Subject: Re: [Wpmp-users] Asking for help on "manually creating a directory"
+
+Hi,
+
+please do reply to the list always.
+
+On Sun, Jan 04, 2009 at 10:01:31PM +0100, Peter Thalmeir T-Online wrote:
+> Hi Frank,
+> 
+> Thanks for your quick reply!
+> 
+> First of all, I think you should also install something like the
+> "donation" section (I saw that on
+> http://www.gosymbian.com/fexplorer_new.php) on your web site. I definitely
+> would like to share a few Euros with you, I really appreciate your work.
+
+That's not possible. There are some constraints, preventing me from
+accepting any money. However, if you've got a spare mobile phone model which
+you
+no longer have use for (and which I do not have already), you could "donate"
+it
+to improve my testing abilities.
+
+[snip]
+
+> I did not quite understand what FExplorer can do for me here. Can you
+> please help me and share some more ideas? (I know that you are probably
+> spending a lot of time supporting your cool tool anyway and sorry for any
+> inconvenience I am causing!!)
+
+Fexplorer is a file manager. It will hapilly create directories and move
+files for you. I thought, you were looking for something like that...
+
+> I see that your English is perfect, however,
+
+I hardly think so - but thanks anyway :-)
+
+> if you want to write in German, that's just as good for me, I am German
+> also.
+
+The mailing list is in english because. WPMP is about converting multiple
+wikipedia languages versions - not just the german one. This way,
+conversations are usefull more users.
+
+Regards,
+
+Frank
+
+
+
+From burk at cbs.mpg.de  Mon Jan  5 10:10:14 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Mon, 5 Jan 2009 10:10:14 +0100
+Subject: [Wpmp-users] Asking for help on "manually creating a directory"
+In-Reply-To: <001201c96f0e$64bbe2f0$2e33a8d0$@thalmeir@t-online.de>
+References: <20090103182924.GA24083@defiant.alpha>
+	<20090105073752.GA5459@defiant.alpha>
+	<001201c96f0e$64bbe2f0$2e33a8d0$@thalmeir@t-online.de>
+Message-ID: <20090105091014.GA6149@defiant.alpha>
+
+Hi,
+
+On Mon, Jan 05, 2009 at 09:19:56AM +0100, Peter Thalmeir T-Online wrote:
+> Hi Frank,
+> 
+> Thanks again for your quick reply and I got your points below.
+> 
+> Just a quick last one:
+> I have all the prc files in the main (root) directory and would like to
+> "organize" it some more (have one folder with all the prc files, so that
+> also only one entry shows in the Mobireader). Mobireader only can handle all
+> the files if they are in the root directory. Is there a way to change that?
+
+My Mobipocket reader only shows ebooks which are located in the \ebooks
+directory (on any drive letter). You Might want to try creating this
+directory.
+
+Regards,
+
+Frank
+
+
+From peter.thalmeir at t-online.de  Mon Jan  5 11:18:21 2009
+From: peter.thalmeir at t-online.de (Peter Thalmeir T-Online)
+Date: Mon, 5 Jan 2009 11:18:21 +0100
+Subject: [Wpmp-users] Asking for help on "manually creating a directory"
+In-Reply-To: <20090105091014.GA6149@defiant.alpha>
+References: <20090103182924.GA24083@defiant.alpha>	<20090105073752.GA5459@defiant.alpha>	<001201c96f0e$64bbe2f0$2e33a8d0$@thalmeir@t-online.de>
+	<20090105091014.GA6149@defiant.alpha>
+Message-ID: <005701c96f1e$efa72360$cef56a20$@thalmeir@t-online.de>
+
+That did the trick, thanks!
+
+Peter
+
+-----Original Message-----
+From: wpmp-users-bounces at lists.berlios.de
+[mailto:wpmp-users-bounces at lists.berlios.de] On Behalf Of Frank Burkhardt
+Sent: 05 January 2009 10:10
+To: wpmp-users at lists.berlios.de
+Subject: Re: [Wpmp-users] Asking for help on "manually creating a directory"
+
+Hi,
+
+On Mon, Jan 05, 2009 at 09:19:56AM +0100, Peter Thalmeir T-Online wrote:
+> Hi Frank,
+> 
+> Thanks again for your quick reply and I got your points below.
+> 
+> Just a quick last one:
+> I have all the prc files in the main (root) directory and would like to
+> "organize" it some more (have one folder with all the prc files, so that
+> also only one entry shows in the Mobireader). Mobireader only can handle
+all
+> the files if they are in the root directory. Is there a way to change
+that?
+
+My Mobipocket reader only shows ebooks which are located in the \ebooks
+directory (on any drive letter). You Might want to try creating this
+directory.
+
+Regards,
+
+Frank
+_______________________________________________
+Wpmp-users mailing list
+Wpmp-users at lists.berlios.de
+https://lists.berlios.de/mailman/listinfo/wpmp-users
+
+
+
+From burk at cbs.mpg.de  Tue Jan  6 09:53:30 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Tue, 6 Jan 2009 09:53:30 +0100
+Subject: [Wpmp-users] broken links in german encyclopedia
+In-Reply-To: <495D03D1.3090307@gmx.de>
+References: <495D03D1.3090307@gmx.de>
+Message-ID: <20090106085330.GA16237@defiant.alpha>
+
+Hi,
+
+On Thu, Jan 01, 2009 at 06:56:33PM +0100, Sven Dziadek wrote:
+> Hi!
+> I installed the German encyclopedia of June 2008. First I had an older
+> version..
+> But at the search for articles there are some first letters missing.
+> E.g. Articles which begin with s, t, r, p, m, z are not findable.
+> I think thats the bug witch was fixed at 13.08.08 but I am not sure (my
+> English is not so good...).
+
+Are you aware of the "multiple-indices-concept", I had to apply to the
+latest german release? On the start page, you have to decide, which index to
+search in. The first one includes numbers and everything until the "L.A.'s
+...", the second one everything after that.
+
+> But the encyclopedia of June 2008 was released before the release of the
+> bug fix. When will the bug fix be included in the encyclopedia?
+
+The fix mentioned on 13.08. was about broken links in disambiguations and
+has nothing to do with the index.
+
+> Or am I the only person, who had this problem. Perhaps I should retry
+> downloading and installing it?
+
+You would have had massive problems decompressing the ebook if the download
+had been broken. My guess is that you were looking in the wrong index.
+
+Regards,
+
+Frank
+
+
+From sven.dziadek at gmx.de  Tue Jan  6 14:23:48 2009
+From: sven.dziadek at gmx.de (Sven Dziadek)
+Date: Tue, 06 Jan 2009 14:23:48 +0100
+Subject: [Wpmp-users] broken links in german encyclopedia
+In-Reply-To: <20090106085330.GA16237@defiant.alpha>
+References: <495D03D1.3090307@gmx.de> <20090106085330.GA16237@defiant.alpha>
+Message-ID: <49635B64.4090001@gmx.de>
+
+Frank Burkhardt schrieb:
+> Hi,
+Hi!
+
+> On Thu, Jan 01, 2009 at 06:56:33PM +0100, Sven Dziadek wrote:
+>> Hi!
+>> I installed the German encyclopedia of June 2008. First I had an older
+>> version..
+>> But at the search for articles there are some first letters missing.
+>> E.g. Articles which begin with s, t, r, p, m, z are not findable.
+>> I think thats the bug witch was fixed at 13.08.08 but I am not sure (my
+>> English is not so good...).
+> 
+> Are you aware of the "multiple-indices-concept", I had to apply to the
+> latest german release? On the start page, you have to decide, which index to
+> search in. The first one includes numbers and everything until the "L.A.'s
+> ...", the second one everything after that.
+Now I am aware of the concept^^
+That was it. I must have been dump not to recognize it.. But I was still
+using the old overview with a direct link to the first index, that's why
+I didn't notice it..
+Now all is working fine. Thank you very much!
+
+And by the way, I love that encyclopedia. It is really very good work!
+Thank you also for that!
+
+> Regards,
+> 
+> Frank
+Best regards,
+	Sven
+
+
+From AEtzold at gmx.de  Mon Jan 26 12:10:39 2009
+From: AEtzold at gmx.de (Axel Etzold)
+Date: Mon, 26 Jan 2009 12:10:39 +0100
+Subject: [Wpmp-users] Problems with clicks on links on Windows Mobile 6.1
+Message-ID: <20090126111039.200810@gmx.net>
+
+Dear developers of wikipedia ebooks,
+
+I downloaded the English and German versions of your wikipedia ebooks
+and Mobipocket Reader, both for Windows Vista (Desktop) and for Windows
+Mobile 6.1 (Samsung Omnia Smartphone).
+On the desktop computer, I can search and read in the wikipedia ebooks
+without problems.
+On the smartphone, this is not possible.
+I cannot click a single blue-underlined link. I am able to choose one
+of the indexes using the menu (eg., "search in index 1"), and I can enter
+a search keyword. Then, a screen with the keyword and a link "click here"
+appears, but it is not possible to get past that.
+Could you issue a patch of the program that would allow me to press that
+link from the menu, as in ("search in index 1") ?
+
+Thank you very much!
+
+Best regards,
+
+Axel Etzold
+
+
+-- 
+Psssst! Schon vom neuen GMX MultiMessenger geh?rt? Der kann`s mit allen: http://www.gmx.net/de/go/multimessenger
+
+
+From burk at cbs.mpg.de  Mon Jan 26 12:36:49 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Mon, 26 Jan 2009 12:36:49 +0100
+Subject: [Wpmp-users] Problems with clicks on links on Windows Mobile 6.1
+In-Reply-To: <20090126111039.200810@gmx.net>
+References: <20090126111039.200810@gmx.net>
+Message-ID: <20090126113649.GA30065@defiant.alpha>
+
+Hi,
+
+On Mon, Jan 26, 2009 at 12:10:39PM +0100, Axel Etzold wrote:
+
+[snip]
+
+> I cannot click a single blue-underlined link. I am able to choose one
+> of the indexes using the menu (eg., "search in index 1"), and I can enter
+> a search keyword. Then, a screen with the keyword and a link "click here"
+> appears, but it is not possible to get past that.
+
+What do you mean by that? Is there an error message?
+
+> Could you issue a patch of the program that would allow me to press that
+> link from the menu, as in ("search in index 1") ?
+
+No - that's not possible. From Mobipocket's point of view, the "Click here"
+link is part of the content. Menu entries are metadata and unique for the
+whole datafile while there are thousends of "Click here" links in a
+datafile.
+
+Regards,
+
+Frank
+
+
+From burk at cbs.mpg.de  Mon Jan 26 14:49:16 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Mon, 26 Jan 2009 14:49:16 +0100
+Subject: [Wpmp-users] Problems with clicks on links on Windows Mobile 6.1
+In-Reply-To: <20090126130915.299220@gmx.net>
+References: <20090126111039.200810@gmx.net>
+	<20090126112520.GA29992@defiant.alpha>
+	<20090126130915.299220@gmx.net>
+Message-ID: <20090126134916.GA30774@defiant.alpha>
+
+Hi,
+
+On Mon, Jan 26, 2009 at 02:09:15PM +0100, Axel Etzold wrote:
+
+[snip]
+
+> > What do you mean by that? Is there an error message?
+> > 
+> 
+> There is no error message. It is just as if the link was ordinary text and
+> not a link, so it can't be clicked and the content in the link cannot
+> be accessed, as it can in Windows Vista.
+
+I've never experienced or heard of a bug like that before. These links are
+actually javascript commands telling mobipocket reader to change the
+datafile and jump to a defined position. Maybe javascript is switched off?
+
+> It is a pity one cannot access those metadata ... couldn't there be some 
+> workaround to access the links in a particular in a similar way as
+> web scraping software does to parse XML/HTML content 
+> 
+> http://www.crummy.com/software/BeautifulSoup/documentation.html ?
+
+That's not how it works. The compression algorithm of mobipocket is
+proprietary - you won't be able to access it. even if you could:
+These links are non-standard-java-commands which are not understood
+by a parser written for regular html content.
+
+Regards,
+
+Frank
+
+
+From reformen at yahoo.de  Wed Jan 28 12:06:16 2009
+From: reformen at yahoo.de (emanuel rauber)
+Date: Wed, 28 Jan 2009 11:06:16 +0000 (GMT)
+Subject: [Wpmp-users] Problems with clicks on links on Windows Mobile 6.1
+References: <20090126111039.200810@gmx.net>
+	<20090126112520.GA29992@defiant.alpha>
+	<20090126130915.299220@gmx.net>
+	<20090126134916.GA30774@defiant.alpha>
+Message-ID: <425820.28964.qm@web23502.mail.ird.yahoo.com>
+
+
+hello frank and everybody
+
+you said...
+
+??? I've never experienced or heard of a bug like that before. These links are
+??? actually javascript commands telling mobipocket reader to change the
+??? datafile and jump to a defined position. Maybe javascript is switched off?
+
+
+i just wanted to mention, that i allready posted the same bug ... and am not able to solve this problem.
+maybe its because of a bad version of mobipocket...
+
+is there an alternative which someone knows to use wikipedia??
+
+thanks anyway for this great free knowledge product...
+
+greetings from bonn
+emanuel
+
+
+
+      
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20090128/4f4e2493/attachment.html>
+

@@ -1,0 +1,129 @@
+From a.silex at gmx.net  Thu Jan 10 12:38:21 2008
+From: a.silex at gmx.net (anna silex)
+Date: Thu, 10 Jan 2008 12:38:21 +0100
+Subject: [Wpmp-users] wiki search
+Message-ID: <003c01c8537d$4db23080$b600a8c0@haupthirn>
+
+Hallo 
+a few days ago i downloaded the whole new wikipedia to my phone into the required ebooks folder of mobipocket. The one problem is that I cannot search for anything, i mean it doesnt work if i say put the word "europe" in search it only looks in the most recently opened part of wikipedia which means i dont get the article in question but any article with this word in it(in this particular part of wikipedia) and not the main one. How do you search for something in wikipedia on your pda? By the way I have a sony erriccson p1i which works on symbian os  could that be a problem? I had donwloaded the version with some pictures and formulas etc.  but these arent shown either??
+thank you very much for your help
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080110/32d39f9c/attachment.html>
+
+From fbolug at gmx.net  Thu Jan 10 13:10:46 2008
+From: fbolug at gmx.net (Frank Burkhardt)
+Date: Thu, 10 Jan 2008 13:10:46 +0100
+Subject: [Wpmp-users] wiki search
+In-Reply-To: <003c01c8537d$4db23080$b600a8c0@haupthirn>
+References: <003c01c8537d$4db23080$b600a8c0@haupthirn>
+Message-ID: <20080110121046.GA24690@defiant.alpha>
+
+Hi,
+
+On Thu, Jan 10, 2008 at 12:38:21PM +0100, anna silex wrote:
+> Hallo 
+
+> a few days ago i downloaded the whole new wikipedia to my phone into the
+> required ebooks folder of mobipocket. The one problem is that I cannot
+> search for anything, i mean it doesnt work if i say put the word "europe"
+> in search it only looks in the most recently opened part of wikipedia
+> which means i dont get the article in question but any article with this
+> word in it(in this particular part of wikipedia) and not the main one. How
+> do you search for something in wikipedia on your pda? By the way I have a
+> sony erriccson p1i which works on symbian os could that be a problem? I
+> had donwloaded the version with some pictures and formulas etc.  but these
+> arent shown either?? thank you very much for your help
+
+First I have to ask for the *exact filename* you downloaded. Without this
+name I'm unable to reproduce the problem in a useful way.
+
+There are two search functions - a fulltext search (which you usually don't need
+in an encyclopedia) and the index search.
+
+The Index search is accessed by Opening the first file (i.e. wpfr.prc or 'wpmp_enc_fr'
+for the french one). This file contains some introducing text and a link which brings
+you to the index search.
+
+Even if you downloaded a version with images, not all image are contained in
+such a release. This is because of some problems in some images internal
+data structures which I'm just beginning to understand. However, all formula images
+should be include - if some are missing, please let me know.
+
+Regards,
+
+Frank
+
+-- 
+                                   /"\
+Frank Burkhardt <fbolug at gmx.net>   \ / ASCII Ribbon Campain
+                                    X  against HTML Mail
+                                   / \
+
+
+From c.reiter at gmx.net  Thu Jan 17 20:08:10 2008
+From: c.reiter at gmx.net (Christian Reiter)
+Date: Thu, 17 Jan 2008 20:08:10 +0100
+Subject: [Wpmp-users] Schedule / Next Version?
+Message-ID: <478FA79A.3060106@gmx.net>
+
+Hi there!
+
+First of all, thanks for your really great work!
+
+Is there any schedule or roadmap when the next (german) Version of WPMP 
+will be released?
+
+Mit freundlichen Gr??en,  ///  Kind Regards,
+                                                 Christian Reiter
+
+
+
+-- 
+
+Christian Reiter	|||	c.reiter at gmx.net
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/x-pkcs7-signature
+Size: 2840 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080117/6e98b0b2/attachment.bin>
+
+From fbolug at gmx.net  Thu Jan 17 21:39:10 2008
+From: fbolug at gmx.net (Frank Burkhardt)
+Date: Thu, 17 Jan 2008 21:39:10 +0100
+Subject: [Wpmp-users] Schedule / Next Version?
+In-Reply-To: <478FA79A.3060106@gmx.net>
+References: <478FA79A.3060106@gmx.net>
+Message-ID: <20080117203910.GA10116@defiant.alpha>
+
+Hi,
+
+On Thu, Jan 17, 2008 at 08:08:10PM +0100, Christian Reiter wrote:
+> Hi there!
+> 
+> First of all, thanks for your really great work!
+> 
+> Is there any schedule or roadmap when the next (german) Version of WPMP will be 
+> released?
+
+Yes.
+
+A new release will be done in ~ 3 days after a new HTML dump is release by
+the guys at http://static.wikipedia.org . Unfortunately, noone knows, when
+exactly they will do so.
+
+Regards,
+
+Frank
+
+-- 
+                                   /"\
+Frank Burkhardt <fbolug at gmx.net>   \ / ASCII Ribbon Campain
+                                    X  against HTML Mail
+                                   / \
+
+

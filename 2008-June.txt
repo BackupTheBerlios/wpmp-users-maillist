@@ -1,0 +1,396 @@
+From daniela.duerbeck at gmx.de  Thu Jun 19 11:09:28 2008
+From: daniela.duerbeck at gmx.de (=?iso-8859-1?Q?=22Daniela_D=FCrbeck=22?=)
+Date: Thu, 19 Jun 2008 11:09:28 +0200
+Subject: [Wpmp-users] Bilder
+Message-ID: <20080619090928.41340@gmx.net>
+
+Hi!
+
+Es gibt einen neuen statischen Snapshot:
+http://static.wikipedia.org/downloads/2008-06/de/
+
+Jetzt wollte ich fragen, ob es irgendeine M?glichkeit gibt, Bilder mit in die mobile Variante zu packen?
+Evtl k?nnte man sie ja stark verkleinern+komprimieren? (ImageMagick b?te sich dazu z.B. an).
+
+Allerdings ist mein PDA sehr limitiert, was sd-Karten betrifft: Er kann nur 2GB-Karten lesen. :-(
+
+Viele Gr??e von Dani
+
+
+From burk at cbs.mpg.de  Thu Jun 19 12:02:04 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 19 Jun 2008 12:02:04 +0200
+Subject: [Wpmp-users] Bilder
+In-Reply-To: <20080619090928.41340@gmx.net>
+References: <20080619090928.41340@gmx.net>
+Message-ID: <20080619100204.GA7268@defiant.alpha>
+
+Hi,
+
+On Thu, Jun 19, 2008 at 11:09:28AM +0200, "Daniela D?rbeck" wrote:
+
+[snip]
+
+> Es gibt einen neuen statischen Snapshot:
+> http://static.wikipedia.org/downloads/2008-06/de/
+
+Ist schon seit einer Weile in Arbeit :-) .
+
+[snip]
+
+> Jetzt wollte ich fragen, ob es irgendeine M?glichkeit gibt, Bilder mit in
+> die mobile Variante zu packen?
+
+Man kann eine Version herunterladen, in der Bilder drin sind.
+
+> Evtl k?nnte man sie ja stark
+> verkleinern+komprimieren? (ImageMagick b?te sich dazu z.B. an).
+
+Mit komprimieren/verkleinern wird das nix - hab's schon ausprobiert (mit
+Imagemagick) - selbst bei 50% Verkleinerung kann man bei den meisten Bildern
+schon nix mehr erkennen. Die Grossen Bilder hab' ich gar nicht erst versucht
+- das wuerde bei der deutschen WP wohl schon 50GB aufwaerts ergeben. Meine
+Skripte kommen jedoch mit den Thumbnails zurrecht. Die Thumbmail-Bitmaps
+alleine brauchen jedoch bereits  4,4GB.
+
+Alle Angaben natuerlich bereits *incl.* jpg/gif-Kompression.
+
+> Allerdings ist mein PDA sehr limitiert, was sd-Karten betrifft: Er kann
+> nur 2GB-Karten lesen. :-(
+
+Meiner leider auch. Allerdings werde ich bei der 2008/06 schon Probleme
+haben, den reinen Text in 2GB zu quetschen. Bilder sind da vollkommen
+illusorisch - abgesehen von den Formeln, die sich mit 100MB zufrieden
+geben.
+
+Allerdings sind mit dem jetzigen Entwicklungsstand meiner Tools
+Themensammlungen denkbar. In diesem Fall wuerde die Artikelliste durch einen
+Filter (der z.B. anhand von Links entscheided, welche Artikel fuer
+Informatiker relevant sind) geschickt und von den verbleibenden Artikeln dann
+alle Bilder (natuerlich nur die Thumbnails) einbaut.
+
+Aber das wird noch etwas dauern - erstmal steht die nur-Text-Version an.
+
+Viele Gruesse,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From ladiko at gmail.com  Thu Jun 19 13:38:07 2008
+From: ladiko at gmail.com (ladiko at gmail.com)
+Date: Thu, 19 Jun 2008 13:38:07 +0200
+Subject: [Wpmp-users] Bilder
+In-Reply-To: <20080619100204.GA7268@defiant.alpha>
+References: <20080619090928.41340@gmx.net>
+	<20080619100204.GA7268@defiant.alpha>
+Message-ID: <c3ad980f0806190438k1048934co71735d8162b58cfa@mail.gmail.com>
+
+gibt's dann auch wieder eine mini-version mit den meist genutzten
+artikeln? die hat mir n?mlich das letzte halbe jahr vollkommen
+gereicht. hatte nie das problem, dass ich was nicht gefunden habe. bin
+sehr zufrieden damit, mach weiter so und vielen dank! :-)
+
+2008/6/19 Frank Burkhardt <burk at cbs.mpg.de>:
+> Hi,
+>
+> On Thu, Jun 19, 2008 at 11:09:28AM +0200, "Daniela D?rbeck" wrote:
+>
+> [snip]
+>
+>> Es gibt einen neuen statischen Snapshot:
+>> http://static.wikipedia.org/downloads/2008-06/de/
+>
+> Ist schon seit einer Weile in Arbeit :-) .
+>
+> [snip]
+>
+>> Jetzt wollte ich fragen, ob es irgendeine M?glichkeit gibt, Bilder mit in
+>> die mobile Variante zu packen?
+>
+> Man kann eine Version herunterladen, in der Bilder drin sind.
+>
+>> Evtl k?nnte man sie ja stark
+>> verkleinern+komprimieren? (ImageMagick b?te sich dazu z.B. an).
+>
+> Mit komprimieren/verkleinern wird das nix - hab's schon ausprobiert (mit
+> Imagemagick) - selbst bei 50% Verkleinerung kann man bei den meisten Bildern
+> schon nix mehr erkennen. Die Grossen Bilder hab' ich gar nicht erst versucht
+> - das wuerde bei der deutschen WP wohl schon 50GB aufwaerts ergeben. Meine
+> Skripte kommen jedoch mit den Thumbnails zurrecht. Die Thumbmail-Bitmaps
+> alleine brauchen jedoch bereits  4,4GB.
+>
+> Alle Angaben natuerlich bereits *incl.* jpg/gif-Kompression.
+>
+>> Allerdings ist mein PDA sehr limitiert, was sd-Karten betrifft: Er kann
+>> nur 2GB-Karten lesen. :-(
+>
+> Meiner leider auch. Allerdings werde ich bei der 2008/06 schon Probleme
+> haben, den reinen Text in 2GB zu quetschen. Bilder sind da vollkommen
+> illusorisch - abgesehen von den Formeln, die sich mit 100MB zufrieden
+> geben.
+>
+> Allerdings sind mit dem jetzigen Entwicklungsstand meiner Tools
+> Themensammlungen denkbar. In diesem Fall wuerde die Artikelliste durch einen
+> Filter (der z.B. anhand von Links entscheided, welche Artikel fuer
+> Informatiker relevant sind) geschickt und von den verbleibenden Artikeln dann
+> alle Bilder (natuerlich nur die Thumbnails) einbaut.
+>
+> Aber das wird noch etwas dauern - erstmal steht die nur-Text-Version an.
+>
+> Viele Gruesse,
+>
+> Frank
+>
+> --
+> Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+> Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+> Cognitive and Brain Sciences       X     against HTML Mail
+> Leipzig, Germany                  / \
+> _______________________________________________
+> Wpmp-users mailing list
+> Wpmp-users at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/wpmp-users
+>
+
+
+From abel at dit.upm.es  Mon Jun  9 17:22:59 2008
+From: abel at dit.upm.es (Abel)
+Date: Mon, 09 Jun 2008 15:22:59 -0000
+Subject: [Wpmp-users] Thanks a lot
+Message-ID: <4795FBAACC75411FB285048D2880122D@abel>
+
+Dear wpmp manager, 
+
+ 
+
+just thank you for your great effort to make such huge amount of information
+available in a small device like a Mobile phone.
+
+ 
+
+Also encourage you to continue your success (although I suppose doing it for
+free can be hard sometimes, I hope you have a good time with it)
+
+ 
+
+Best regards, sorry for my lack of German language.
+
+ 
+
+_______________________________
+Abel Carril Fuentetaja
+Isabel Group. DIT UPM
+        abel at dit.upm.es
+        +34-915495700 - ext 3020/3036
+_______________________________
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080609/bd1e834d/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.gif
+Type: image/gif
+Size: 395 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080609/bd1e834d/attachment.gif>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image002.gif
+Type: image/gif
+Size: 326 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080609/bd1e834d/attachment-0001.gif>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image003.gif
+Type: image/gif
+Size: 463 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080609/bd1e834d/attachment-0002.gif>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image004.gif
+Type: image/gif
+Size: 399 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080609/bd1e834d/attachment-0003.gif>
+
+From burk at cbs.mpg.de  Thu Jun 26 14:16:34 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Thu, 26 Jun 2008 14:16:34 +0200
+Subject: [Wpmp-users] Experimental release of german encyclopedia 2008/06
+Message-ID: <20080626121634.GA3427@defiant.alpha>
+
+Hi everyone,
+
+WPMP is proud to release a first experimental 2008-release of a german
+encyclopedia based of data from the Wikipedia. The HTML-snapshot was taken
+in june 2008.
+
+Some information:
+   * All real articles (No talk-pages, categorie-pages, user-pages, ...) are included.
+   * Size on your Memory-Card/PDA/... : 1.37 GiB
+   * Size of the contained text: 4.38 GiB
+   * All formulas are included
+   * No other images, sorry.
+   * Additional people aliases (i.e. "Max Planck" can be found as "Planck, Max" as well
+   * URL: ftp://ftp5.gwdg.de/pub/wikipedia/mobile/ebooks/de/wpmp-de-200806_1e.tgz
+
+ >>> Please test the release and send feedback. <<<
+
+I was able to get my hands on statistical information about how often
+each article was read around the time of the snapshot which brings me
+to my todo list:
+   * A release for 1GB cards
+   * A release with images for 2GB cards
+
+Unfortunately there will be no release including all the images because
+of a problem including that many objects into a mobipocket ebook.
+
+To all non-german-speaking people: These languages are in my queue:
+   * French
+   * English
+   * Esperanto
+   * Spanish
+   * Arabic
+   * Finnish
+   * Polish
+   * Italian
+   * Norwegian
+   * Hungarian
+   * Russian
+
+Unfortunately, the dump didn't include Dutch and Japanese. 
+
+Regards,
+
+Frank Burkhardt
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+
+From abel.carril at gmail.com  Sat Jun 28 00:01:33 2008
+From: abel.carril at gmail.com (Abel)
+Date: Sat, 28 Jun 2008 00:01:33 +0200
+Subject: [Wpmp-users] Spanish and new German wikipedia tested
+Message-ID: <c66a9a180806271501g183899e0yd63b39fd349eae68@mail.gmail.com>
+
+Dear WPMP people:
+
+I wanted to congratulate you for your great effort and great results
+compressing the whole Wikipedia in a small portable format. I think this is
+one of the most useful works I've seen long ago, tons of knowledge in a
+portable device.
+
+I wanted to let you know that I have been testing the Spanish version of
+your project for a few time and it is fantastic.I use a Nokia Symbian S60
+model wiht Mobipocket reader installed. The searches are quick and
+navigation is not so bad, better than expected in a small smartphone. The
+wikipedia requires to create a eBooks folder for the index file, and a
+subdocs folder below for the rest of the files.
+
+I have also tried the new German version in a 2 GB SD card and it also works
+fine, however this one does not require to create the subdocs folder, so I
+had to brainstorm a bit before it got to work.
+
+Thanks again and best luck in your efforts, that benefit potentially
+millions of people.
+
+Best regards
+Abel
+
+-- 
+Abel
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080628/4102dfea/attachment.html>
+
+From daniela.duerbeck at gmx.de  Sat Jun 28 01:33:48 2008
+From: daniela.duerbeck at gmx.de (Daniela Duerbeck)
+Date: Sat, 28 Jun 2008 01:33:48 +0200
+Subject: [Wpmp-users] Spanish and new German wikipedia tested
+In-Reply-To: <c66a9a180806271501g183899e0yd63b39fd349eae68@mail.gmail.com>
+References: <c66a9a180806271501g183899e0yd63b39fd349eae68@mail.gmail.com>
+Message-ID: <486578DC.3090901@gmx.de>
+
+Abel wrote:
+>
+> I have also tried the new German version in a 2 GB SD card and it also 
+> works fine, however this one does not require to create the subdocs 
+> folder, so I had to brainstorm a bit before it got to work.
+Ja,  ich kann nur best?tigen, was der Zitierte schrieb:
+
+Die neue Wikipedia funktioniert hervorragend.
+Ganz, ganz vielen lieben Dank f?r die M?he.
+
+Viele Gr??e von Dani
+
+P.S: falls man mal helfen kann, sag bitte Bescheid. 
+
+
+
+
+From Radimersky at t-online.de  Sat Jun 28 11:54:02 2008
+From: Radimersky at t-online.de (Rainer Radimersky)
+Date: Sat, 28 Jun 2008 11:54:02 +0200
+Subject: [Wpmp-users]
+ =?iso-8859-15?q?Spanish_and_new_German_wikipedia_tes?=
+ =?iso-8859-15?q?ted?=
+In-Reply-To: <486578DC.3090901@gmx.de>
+References: <c66a9a180806271501g183899e0yd63b39fd349eae68@mail.gmail.com>
+	<486578DC.3090901@gmx.de>
+Message-ID: <1KCX86-0RZ0xU0@fwd32.aul.t-online.de>
+
+
+
+
+Hallo!
+
+...Auch von meiner Seite die "Erfolgsmeldung" ?ber die
+erfolgreiche Installation der aktuellen Version auf einem
+Nokia S80-Ger?t (N9500): Datei-Archiv geholt, das gute
+St?ck ausgepackt, die Dateien in das Unterverzeichnis
+eBooks" verschoben -und alles schnurrte wieder feinst!
+
+Aktuell scheint die Version wohl ohne Graphiken vorzu-
+liegen: was mir pers?nlich aber sehr recht ist, da das
+Nokia 9500 auf eine MMC-Card (anstelle SD-Karte o.?.)
+angewiesen ist, und dieser Kartentyp wohl leider nur
+bis zu einer Kapazit?t von 2 GB gefertigt worden war...
+
+Danke, viele Gr??e, und ein sch?nes Wochenende!
+Rainer Radimersky
+
+
+
+
+
+
+From x.s at gmx.de  Mon Jun 30 21:40:39 2008
+From: x.s at gmx.de (Felix Schellenberg)
+Date: Mon, 30 Jun 2008 21:40:39 +0200
+Subject: [Wpmp-users] German 2008 Wikipedia Feedback
+Message-ID: <40044DD3-B7FD-426D-B538-1FE9B480B5FC@gmx.de>
+
+Die Umlaute in der Listenansicht werden falsch dargestellt - in den  
+Zwischen?berschriften stimmen sie wieder.
+
+Z.B. Beim Versuch "Manchester" nachzuschlagen, werden vorher die  
+Eintr?ge von "M?nch" angeziegt, da das "?" in Sonderzeichen  
+ausgedr?ckt wird.
+
+Viel Erfolg beim Fix!
+

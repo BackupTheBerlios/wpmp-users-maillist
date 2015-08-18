@@ -1,0 +1,206 @@
+From ht8 at gmx.net  Mon Sep  7 11:41:51 2009
+From: ht8 at gmx.net (Beat Hess)
+Date: Mon, 7 Sep 2009 11:41:51 +0200
+Subject: [Wpmp-users] Reader v5.3 Build 582 and EN WIKI not working
+Message-ID: <64CF92D279774130B465DD0F6F85C6BF@RYUK>
+
+Hi list
+
+ 
+
+I just downloaded the English wiki from
+http://ftp5.gwdg.de/pub/wikipedia/mobile/ebooks/en/wpmp-en-200806_1e2.tgz
+
+ 
+
+I did check the size and md5 checksum, both are the same as stated in
+http://ftp5.gwdg.de/pub/wikipedia/mobile/ebooks.md5.
+
+ 
+
+I also installed the Mobipocket Reader v5.3 Build 582 on my Windows Mobile
+6.1 Professional device.
+
+ 
+
+At this point, Mobipocket is starting up alright.
+
+ 
+
+I then copied the files from wpmp-en-200806_1e2.tgz to the ebooks directory
+on my memory card.
+
+ 
+
+Now, when I start Mobipocket again, the application is not responding
+anymore.
+
+ 
+
+I was playing around with the files WPEN*.prc. I found that when I moved the
+WPEN70.prc . WPEN89.prc
+
+files into a different directory, everything was ok.
+
+ 
+
+Other ebooks are working.
+
+ 
+
+Is there anybody encountering the same issues with this Mobipocket version?
+
+ 
+
+Beat
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20090907/c73e62d9/attachment.html>
+
+From hardbody500 at gmx.de  Mon Sep  7 13:36:01 2009
+From: hardbody500 at gmx.de (hardbody500 at gmx.de)
+Date: Mon, 07 Sep 2009 13:36:01 +0200
+Subject: [Wpmp-users] Wikipedia mobil
+Message-ID: <20090907113601.181680@gmx.net>
+
+Guten Tag,
+
+ich habe Ihre Adresse von Herrn Sch?fer, dieser verwies mich an Sie. Es w?re sehr nett, wenn Sie vielleicht eine kurze Antwort h?tten: Einige Bekannte und ich nutzen sehr gerne Wikipedia auf unseren Handys mit Mobipocket f?r Windwos Mobile (leider gibt es ja anscheinend keine Weiterentwicklung des Readers f?r die Touch Handys mit Symbian S60 V5). Die letzte Ausgabe ist ja nun schon ?ber ein Jahr alt und daher wollten wir wissen, wann und ob eine aktuellere erscheint. Nun schrieben wir auch schon Wikipedia selbst an, diese verwiesen uns jedoch an die Betreiber, die die Dateien umwandeln, da dies Wikipedia selbst nicht macht. K?nnen Sie uns Auskunft geben, an wen wir uns wenden k?nnen bzw. wissen Sie, wann und ob eine aktuellere Version erscheinen wird?
+
+Vielen Dank und viele Gr??e
+Peter
+
+-- 
+GRATIS f?r alle GMX-Mitglieder: Die maxdome Movie-FLAT!
+Jetzt freischalten unter http://portal.gmx.net/de/go/maxdome01
+
+
+From lachmann at eva.mpg.de  Mon Sep  7 14:06:31 2009
+From: lachmann at eva.mpg.de (Michael Lachmann)
+Date: Mon, 7 Sep 2009 14:06:31 +0200
+Subject: [Wpmp-users] Reader v5.3 Build 582 and EN WIKI not working
+In-Reply-To: <64CF92D279774130B465DD0F6F85C6BF@RYUK>
+References: <64CF92D279774130B465DD0F6F85C6BF@RYUK>
+Message-ID: <bae3a3880909070506x1b824c66j29fc1e35000e2cb8@mail.gmail.com>
+
+I have been using this version for a long time.
+My file structure is:
+Storage Card/EBOOKS/wpmp-en/wpen*.prc
+
+All other ebooks are stored in
+Storage Card/EBOOKS
+
+Michael
+
+2009/9/7 Beat Hess <ht8 at gmx.net>:
+> Hi list
+>
+>
+>
+> I just downloaded the English wiki from
+> http://ftp5.gwdg.de/pub/wikipedia/mobile/ebooks/en/wpmp-en-200806_1e2.tgz
+>
+>
+>
+> I did check the size and md5 checksum, both are the same as stated in
+> http://ftp5.gwdg.de/pub/wikipedia/mobile/ebooks.md5.
+>
+>
+>
+> I also installed the Mobipocket Reader v5.3 Build 582 on my Windows Mobile
+> 6.1 Professional device.
+>
+>
+>
+> At this point, Mobipocket is starting up alright.
+>
+>
+>
+> I then copied the files from wpmp-en-200806_1e2.tgz to the ebooks directory
+> on my memory card.
+>
+>
+>
+> Now, when I start Mobipocket again, the application is not responding
+> anymore.
+>
+>
+>
+> I was playing around with the files WPEN*.prc. I found that when I moved the
+> WPEN70.prc ? WPEN89.prc
+>
+> files into a different directory, everything was ok.
+>
+>
+>
+> Other ebooks are working.
+>
+>
+>
+> Is there anybody encountering the same issues with this Mobipocket version?
+>
+>
+>
+> Beat
+>
+> _______________________________________________
+> Wpmp-users mailing list
+> Wpmp-users at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/wpmp-users
+>
+>
+
+
+From burk at cbs.mpg.de  Tue Sep  8 09:24:20 2009
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Tue, 8 Sep 2009 09:24:20 +0200
+Subject: [Wpmp-users] Wikipedia mobil
+In-Reply-To: <20090907132743.210360@gmx.net>
+References: <20090907113601.181680@gmx.net>
+	<20090907130617.GA22472@defiant.alpha>
+	<20090907132743.210360@gmx.net>
+Message-ID: <20090908072420.GA26452@defiant.alpha>
+
+Hallo,
+
+On Mon, Sep 07, 2009 at 03:27:43PM +0200, hardbody500 at gmx.de wrote:
+> Hallo Frank,
+> 
+> vielen Dank f?r die schnelle Antwort, ich muss gestehen, dass ich mich
+> recht wenig in solchen Dingen auskenne und nicht wei?, was ein HTML-Dump
+> ist :-).
+
+Ein HTML-Dump entsteht, wenn jemand von den Wikipedianern entscheidet, einen
+Knopf zu druecken und damit aus der Datenbank der Wikipedia ein riesige
+Menge and Webseiten erstellt wird, die jeweils einen der Wikipedia Artikel
+enthaelt. Diese Webseiten sind dann auch untereinander vernetzt. Auf diese
+Weise kann man die Wikipedia ohne eine Datenbank benutzen - z.B. als eBook.
+Dieser Dump wird dann von Ballast (z.B. die Seitenmenues) befreit und
+komprimiert, so dass man ihn auf einem Telefon o.ae. benutzen kann.
+
+> Heisst das, es wird eine aktuellere Version f?r den Mobipocketreader f?r
+> Windows Mobile geben?
+
+*Sobald ich einen HTML-Dump bekommen* werde ich eine neue Version im
+Mobipocket-Format erzeugen.
+
+> Weil wir auch lasen, dass die Entwicklung des Mobipocketreaders (f?r
+> Windows Mobile bzw. f?r Symbian mit Touchscreen gibt es ja gar keinen
+> mehr) eingestellt wurde...
+
+Ich besitze weder Windows-Geraete noch Symbian-Touchscreen-Systeme und
+kann deshalb leider nichts zur Unterstuetzung sagen. Das Forum von
+Mobipocket koennte weiterhelfen.
+
+Viele Gruesse,
+
+Frank
+
+-- 
+Frank Burkhardt <burk at cbs.mpg.de> /"\  phone: +49 341 9940-142
+Max Planck Institute for Human    \ /    ASCII Ribbon Campain
+Cognitive and Brain Sciences       X     against HTML Mail
+Leipzig, Germany                  / \
+
+

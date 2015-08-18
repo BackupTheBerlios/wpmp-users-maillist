@@ -1,0 +1,189 @@
+From rothb at msu.edu  Fri Aug  8 02:44:31 2008
+From: rothb at msu.edu (Bruce Roth)
+Date: Thu, 7 Aug 2008 20:44:31 -0400
+Subject: [Wpmp-users] Question about the English version
+Message-ID: <63C9C3FEDD684F85B40AA37A5F4E752B@BrucePC>
+
+I downloaded the EN version and noticed that the file is only 688M bytes in size.  I would assume it would be over 4GB based on the listing?
+
+I used IZARC to open the compressed file, 7-zip gave me an error.  There were only 23 files/
+
+Also in Mobipocket I find that I get an error message, "Could not open #startpage", but I can read the files.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080807/33e49cbc/attachment.html>
+
+From burk at cbs.mpg.de  Fri Aug  8 10:27:40 2008
+From: burk at cbs.mpg.de (Frank Burkhardt)
+Date: Fri, 8 Aug 2008 10:27:40 +0200
+Subject: [Wpmp-users] Question about the English version
+In-Reply-To: <63C9C3FEDD684F85B40AA37A5F4E752B@BrucePC>
+References: <63C9C3FEDD684F85B40AA37A5F4E752B@BrucePC>
+Message-ID: <20080808082740.GA14554@defiant.alpha>
+
+Hi,
+
+On Thu, Aug 07, 2008 at 08:44:31PM -0400, Bruce Roth wrote:
+> I downloaded the EN version and noticed that the file is only 688M bytes in
+> size.  I would assume it would be over 4GB based on the listing?
+>  
+> I used IZARC to open the compressed file, 7-zip gave me an error.  There were
+> only 23 files/
+>  
+> Also in Mobipocket I find that I get an error message, "Could not open #
+> startpage", but I can read the files.
+
+The en-release is ~ 4.7GB which means, the program, you were using to
+download the file is most likely broken and didn't calculate the size of the
+file correctly.
+
+Try another program - i.e. Filezilla - to download the file.
+
+Regards,
+
+Frank
+
+
+From ladiko at gmail.com  Fri Aug  8 12:40:46 2008
+From: ladiko at gmail.com (Ronny)
+Date: Fri, 08 Aug 2008 12:40:46 +0200
+Subject: [Wpmp-users] Question about the English version
+In-Reply-To: <20080808082740.GA14554@defiant.alpha>
+References: <63C9C3FEDD684F85B40AA37A5F4E752B@BrucePC>
+	<20080808082740.GA14554@defiant.alpha>
+Message-ID: <489C22AE.1000100@gmail.com>
+
+the program is not broken, but it doesnt support downloading files 
+bigger then 4gb
+the file is 4882241 kb
+4gb are 4194304 kb
+
+4882241 kb - 4194304 kb = 687937 kb = 672 mb
+
+so these "old" programs only download a part that has a filesize of 
+<real_filesize> MOD <4gb>
+dont ask me why your program downloaded 688 mb
+*
+*Frank Burkhardt schrieb:
+> Hi,
+>
+> On Thu, Aug 07, 2008 at 08:44:31PM -0400, Bruce Roth wrote:
+>   
+>> I downloaded the EN version and noticed that the file is only 688M bytes in
+>> size.  I would assume it would be over 4GB based on the listing?
+>>  
+>> I used IZARC to open the compressed file, 7-zip gave me an error.  There were
+>> only 23 files/
+>>  
+>> Also in Mobipocket I find that I get an error message, "Could not open #
+>> startpage", but I can read the files.
+>>     
+>
+> The en-release is ~ 4.7GB which means, the program, you were using to
+> download the file is most likely broken and didn't calculate the size of the
+> file correctly.
+>
+> Try another program - i.e. Filezilla - to download the file.
+>
+> Regards,
+>
+> Frank
+> _______________________________________________
+> Wpmp-users mailing list
+> Wpmp-users at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/wpmp-users
+>   
+
+
+
+From stefan.kull at t-online.de  Sun Aug 31 07:01:35 2008
+From: stefan.kull at t-online.de (Stefan Kull)
+Date: Sun, 31 Aug 2008 07:01:35 +0200
+Subject: [Wpmp-users] Zu dumm?
+Message-ID: <000001c90b26$a5d25ea0$f1771be0$@kull@t-online.de>
+
+Damen und Herren,
+
+ich m?chte gerne die englische Wikipedia auf meinem Medion 41600 lesen
+k?nnen. Ich habe daher, wie bei Ihnen beschrieben, die Datei
+wpmp-en-200806_1e2 heruntergeladen und entpackt. (Dabei wird gemeldet, das
+die Datei wpen120.prc besch?digt sei.). Ich lade ?ber die Dockingstation
+alle Dateien auf den PDA  und kann auch im Explorer des PDA alle Dateien
+sehen und finde eine ?hnliche ?Struktur? wie bei meiner funktionierenden
+deutschen Version. Ich bekomme dann aber gesagt: Fehler  / Could not open
+#startpage.
+
+Die Frage lautet: Warum ist das so, eher noch, wie kann man dem abhelfen?
+
+ 
+
+Danke f?r die Hilfe und Gru? aus dem Harz
+
+ 
+
+Stefan Kull
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Dr. Stefan Kull
+
+Am Breiten Busch 56
+
+D-37520 Osterode am Harz
+
+ 
+
+ 
+
+Privileged client attorney communication*
+
+ 
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080831/446ce7de/attachment.html>
+
+From jakob at drss.de  Sun Aug 31 15:00:01 2008
+From: jakob at drss.de (Jakob Lenfers)
+Date: Sun, 31 Aug 2008 15:00:01 +0200
+Subject: [Wpmp-users] Convert a wikia xml dump
+Message-ID: <48BA95D1.1090300@drss.de>
+
+Hi,
+
+I wanted to convert a wiki from wikia.com, but I couldn't find static
+html or sql dumps, only a xml dump. Does someone know, if I can convert
+it into an ebook too?
+
+Thanks a lot, Jakob
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 258 bytes
+Desc: OpenPGP digital signature
+URL: <https://lists.berlios.de/pipermail/wpmp-users/attachments/20080831/4af153f6/attachment.pgp>
+
